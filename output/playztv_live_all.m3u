@@ -1,11 +1,11 @@
 #EXTM3U
 # PlayZ TV Auto-Updated Playlist
-# Generated: 2026-08-13T21:48:20.344908+06:00
+# Generated: 2026-08-13T22:44:15.349074+06:00
 # App version: 5,6,7
 # Telegram: https://t.me/playztv
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 3
+# Total entries: 4
 
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/2195054103/vector/tennis-rackets-with-tennis-ball-in-circle-composition-in-retro-style-sports-equipment-on.jpg?s=612x612&w=0&k=20&c=3TasXyTJWVkVGeT0ZLV_cHxV2i2_oWeGaSh5vUVt5q8=" group-title="Tennis | ATP vs WTA",🔴 ✓ Server 1 | ATP vs WTA | BEIN EN [ATP]
 https://playztv.pages.dev/sss/index.m3u8
@@ -15,3 +15,6 @@ https://playztv.pages.dev/sss/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/2195054103/vector/tennis-rackets-with-tennis-ball-in-circle-composition-in-retro-style-sports-equipment-on.jpg?s=612x612&w=0&k=20&c=3TasXyTJWVkVGeT0ZLV_cHxV2i2_oWeGaSh5vUVt5q8=" group-title="Tennis | ATP vs WTA",🔴 ✗ Server 3 | ATP vs WTA | TENNIS FHD
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="Football | Santos vs Macará",🔴 ✗ Server 1 | Santos vs Macará | Server 1
+https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102508&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=58eaaf823b8b124213229ac251f2efbc
