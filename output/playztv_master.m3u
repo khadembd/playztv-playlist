@@ -1,77 +1,128 @@
 #EXTM3U
 # PlayZ TV Auto-Updated Playlist
-# Generated: 2026-08-13T22:44:15.348069+06:00
+# Generated: 2026-08-13T23:48:52.256812+06:00
 # App version: 5,6,7
 # Telegram: https://t.me/playztv
 # Mode: All streams (HLS+DASH)
 # Filter: all | Unverified: excluded
-# Total entries: 43
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/36606/image/dark" group-title="Cricket | Pakistan Blues vs Pakistan Whites",✓ ✓ Server 1 | Pakistan Blues vs Pakistan Whites | TAPMAD - AQ 
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1786659336~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=4d7b16e074aa7209b59d3ed18ff464afbd08bfe377f13d158f9ab6528dbc0959/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/36606/image/dark" group-title="Cricket | Pakistan Blues vs Pakistan Whites",✓ ✓ Server 2 | Pakistan Blues vs Pakistan Whites | TAMASHA PRO - AQ 
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAgdMWnI93VGmQ9Ht_hCSBWVOWjYQG5XfTag&s" group-title="Padel | WPL vs WPL",✓ ✓ Server 1 | WPL vs WPL | WILLOW SP - AQ 
-http://193.47.62.191/hls/BYYY.m3u8|referer=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAgdMWnI93VGmQ9Ht_hCSBWVOWjYQG5XfTag&s" group-title="Padel | WPL vs WPL",✓ ✓ Server 2 | WPL vs WPL | TAPMAD - AQ
-http://193.47.62.191/hls/BYYYA.m3u8|referer=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAgdMWnI93VGmQ9Ht_hCSBWVOWjYQG5XfTag&s" group-title="Padel | WPL vs WPL",✓ ✓ Server 3 | WPL vs WPL | TAPMAD FHD
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football | FC Tobol vs FK Partizan",✓ ✓ Server 1 | FC Tobol vs FK Partizan | Link 1
-http://193.47.62.191/hls/BYYYAA.m3u8|referer=http://www.fawanews.sc/
+# Total entries: 60
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football | Flora Tallinn vs Inter Club d'Escaldes",✓ ✓ Server 1 | Flora Tallinn vs Inter Club d'Escaldes | SD STREAM 
-https://playztv.pages.dev/sss/index.m3u8
+http://193.47.62.191/hls/BYYYAA.m3u8|referer=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football | Ilves vs HNK Rijeka",✓ ✓ Server 1 | Ilves vs HNK Rijeka | SD STREAM
-http://193.47.62.191/hls/BYYYAAA.m3u8|referer=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football | Qarabağ FK vs Dynamo Kyiv",✓ ✓ Server 1 | Qarabağ FK vs Dynamo Kyiv | SD STREAM 
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark" group-title="Football | Côte d'Ivoire vs Ghana",✓ ✓ Server 1 | Côte d'Ivoire vs Ghana | SD STREAM 
 http://193.47.62.190/hls/SSSSAAAA.m3u8|referer=http://www.fawanews.sc/
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Al-Shabab vs Al-Qadsiah",✓ ✓ Server 1 | Al-Shabab vs Al-Qadsiah | Server 1
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football | Qarabağ FK vs Dynamo Kyiv",✓ ✓ Server 1 | Qarabağ FK vs Dynamo Kyiv | SD STREAM 
+http://193.47.62.191/hls/BYYYAAA.m3u8|referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Abha vs Al-Hazem",✓ ✓ Server 1 | Abha vs Al-Hazem | FHD STREAM 
+http://193.47.62.191/hls/BYYYA.m3u8|referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Abha vs Al-Hazem",✓ ✓ Server 2 | Abha vs Al-Hazem | PLAYZTV LIVE 
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Abha vs Al-Hazem",✓ ✓ Server 3 | Abha vs Al-Hazem | HD STREAM 
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a65d3a6ce986c47403a62d9-fhd/chunks.m3u8?is_vip=false&token=1786727864-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f79fffe3469143035fe7c67e24fcdf0c|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-livestream.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Abha vs Al-Hazem",✓ ✓ Server 4 | Abha vs Al-Hazem | SD STREAM
+http://193.47.62.190/hls/EEEE.m3u8|referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark" group-title="Football | Côte d'Ivoire vs Ghana",✓ ✓ Server 1 | Côte d'Ivoire vs Ghana | SD STREAM 
 https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark" group-title="Football | South Africa vs Nigeria",🔴 ✓ Server 1 | South Africa vs Nigeria | Server 1
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football | FC Midtjylland vs Bohemian FC",✓ ✓ Server 1 | FC Midtjylland vs Bohemian FC | Link 1
+https://live.vivo200.com/live/sd-1-4599540.m3u8?txSecret=41da09740e65a16430d1d29ead9e6708&txTime=6A7DFFBA|Referer=https://player.online909.com/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football | DAC 1904 vs FC Twente",✓ ✓ Server 1 | DAC 1904 vs FC Twente | Link 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football | Beşiktaş JK vs FC Hradec Králové",✓ ✓ Server 1 | Beşiktaş JK vs FC Hradec Králové | Link 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football | Pafos FC vs Red Bull Salzburg",✓ ✓ Server 1 | Pafos FC vs Red Bull Salzburg | Link 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football | FC Vaduz vs Inter Turku",✓ ✓ Server 1 | FC Vaduz vs Inter Turku | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football | Víkingur Reykjavík vs FC Thun",✓ ✓ Server 1 | Víkingur Reykjavík vs FC Thun | Link 1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football | NSÍ Runavík vs FC Lugano",✓ ✓ Server 1 | NSÍ Runavík vs FC Lugano | Link 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Al Diriyah vs Al-Ahli",✓ ✓ Server 1 | Al Diriyah vs Al-Ahli | SportDigital Fussball
+https://hls.streamhub.media/hls/thesport-api-3e2aa78a6fe437102a49/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Al-Shabab vs Al-Qadsiah",✓ ✓ Server 1 | Al-Shabab vs Al-Qadsiah | Server 1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football | FC St. Gallen 1879 vs Sheriff Tiraspol",✓ ✓ Server 1 | FC St. Gallen 1879 vs Sheriff Tiraspol | Server 1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football | KF Shkëndija vs Hibernian",✓ ✓ Server 1 | KF Shkëndija vs Hibernian | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football | FC Drita vs SP Tre Fiori",✓ ✓ Server 1 | FC Drita vs SP Tre Fiori | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football | RSC Anderlecht vs PAOK",✓ ✓ Server 1 | RSC Anderlecht vs PAOK | Server 1
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6c24e3c4446a894082a0f4-hd/chunks.m3u8?is_vip=false&token=1786727879-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-70633363ddcfdd8584049c7984182c4b|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-livestream.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football | Rangers vs Jagiellonia Białystok",✓ ✓ Server 1 | Rangers vs Jagiellonia Białystok | Link 1
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football | Motherwell vs HJK",✓ ✓ Server 1 | Motherwell vs HJK | Link 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football | Shelbourne vs AFC Ajax",✓ ✓ Server 1 | Shelbourne vs AFC Ajax | BEIN Sports
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6c24e3c4446a894082a0f3/chunks.m3u8?is_vip=false&token=1786727901-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-21e0823a6b97297204eab75cd83d6b34|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-livestream.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football | Heart of Midlothian vs Benfica",✓ ✓ Server 1 | Heart of Midlothian vs Benfica | Server 1
+https://hls.live123.fans/live/4602560.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football | KF Egnatia vs Shamrock Rovers",✓ ✓ Server 1 | KF Egnatia vs Shamrock Rovers | Server 1
+https://hls.live123.fans/live/4602586.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football | Klaksvíkar Ítróttarfelag vs Lech Poznań",✓ ✓ Server 1 | Klaksvíkar Ítróttarfelag vs Lech Poznań | Server 1
+https://hls.live123.fans/live/4602560.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark" group-title="Football | South Africa vs Nigeria",🔴 ✓ Server 1 | South Africa vs Nigeria | LOW SERVER
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark" group-title="Football | South Africa vs Nigeria",🔴 ✓ Server 2 | South Africa vs Nigeria | HD SERVER
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/2195054103/vector/tennis-rackets-with-tennis-ball-in-circle-composition-in-retro-style-sports-equipment-on.jpg?s=612x612&w=0&k=20&c=3TasXyTJWVkVGeT0ZLV_cHxV2i2_oWeGaSh5vUVt5q8=" group-title="Tennis | ATP vs WTA",🔴 ✓ Server 1 | ATP vs WTA | BEIN EN [ATP]
-https://playztv.pages.dev/sss/index.m3u8
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/2195054103/vector/tennis-rackets-with-tennis-ball-in-circle-composition-in-retro-style-sports-equipment-on.jpg?s=612x612&w=0&k=20&c=3TasXyTJWVkVGeT0ZLV_cHxV2i2_oWeGaSh5vUVt5q8=" group-title="Tennis | ATP vs WTA",🔴 ✓ Server 2 | ATP vs WTA | BEIN EN [WTP]
 https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/384/image/dark" group-title="Football | Mirassol vs LDU",🔴 ✓ Server 1 | Mirassol vs LDU | Server 1
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="Football | Vasco da Gama vs Olimpia",🔴 ✓ Server 1 | Vasco da Gama vs Olimpia | Server 1
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark" group-title="Cricket | Jamaica Kingsmen vs Guyana Amazon Warriors",⏳ ✓ Server 1 | Jamaica Kingsmen vs Guyana Amazon Warriors | TNT SPORTS - AQ
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/384/image/dark" group-title="Football | Mirassol vs LDU",🔴 ✓ Server 1 | Mirassol vs LDU | beIN ENGLISH
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark" group-title="Cricket | Jamaica Kingsmen vs Guyana Amazon Warriors",⏳ ✓ Server 2 | Jamaica Kingsmen vs Guyana Amazon Warriors | WILLOW HD
-https://latestmovies.net/api/live/playlist/590
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="Football | Santos vs Macará",🔴 ✓ Server 1 | Santos vs Macará | SportDigital Fussball
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",⏳ ✓ Server 1 | Australia vs Bangladesh | TAPMAD - AQ
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786661264-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-21373f2a9e22010a8483738b60d6baa1|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-iptv.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark" group-title="Cricket | Jamaica Kingsmen vs Guyana Amazon Warriors",⏳ ✓ Server 1 | Jamaica Kingsmen vs Guyana Amazon Warriors | TAPMAD - AQ
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark" group-title="Cricket | Jamaica Kingsmen vs Guyana Amazon Warriors",⏳ ✓ Server 2 | Jamaica Kingsmen vs Guyana Amazon Warriors | WILLOW SPORTS
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6c24e3c4446a894082a0f0-hd/chunks.m3u8?is_vip=false&token=1786727867-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a527288e32f9171400e0a32b9fe08c52|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-livestream.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",⏳ ✓ Server 1 | Australia vs Bangladesh | WILLOW - AQ
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786684643-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-322440449efa8988d6ba51ab3f7c24a6|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-iptv.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",⏳ ✓ Server 2 | Australia vs Bangladesh | WILLOW SP - AQ
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786684643-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-322440449efa8988d6ba51ab3f7c24a6|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-iptv.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",⏳ ✓ Server 3 | Australia vs Bangladesh | WILLOW HD
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",⏳ ✓ Server 4 | Australia vs Bangladesh | SKY SPORT NZ HD
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+https://latestmovies.net/api/live/playlist/590
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",⏳ ✓ Server 5 | Australia vs Bangladesh | WILLOW S2
 https://playztv.pages.dev/sss/index.m3u8
@@ -86,13 +137,19 @@ https://playztv.pages.dev/sss/index.m3u8
 https://playztv.pages.dev/sss/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",⏳ ✓ Server 9 | Australia vs Bangladesh | TEN SPORTS HD
-https://playztv.pages.dev/sss/index.m3u8
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786661264-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-21373f2a9e22010a8483738b60d6baa1|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-iptv.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/36606/image/dark" group-title="Cricket | Pakistan Gold vs Pakistan Greens",⏳ ✓ Server 1 | Pakistan Gold vs Pakistan Greens | Link 1
-https://playztv.pages.dev/sss/index.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23342/image/dark" group-title="Cricket | Italy vs Singapore",⏳ ✓ Server 1 | Italy vs Singapore | Link 1
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23342/image/dark" group-title="Cricket | Bahrain vs Hong Kong C.",⏳ ✓ Server 1 | Bahrain vs Hong Kong C. | Link 1
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAgdMWnI93VGmQ9Ht_hCSBWVOWjYQG5XfTag&s" group-title="Padel | WPL vs WPL",⏳ ✓ Server 1 | WPL vs WPL | TAPMAD FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809386.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket | Sunrisers Leeds Women vs Southern Brave Women",⏳ ✓ Server 1 | Sunrisers Leeds Women vs Southern Brave Women | WILLOW - AQ
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809386.m3u8
+https://playztv.pages.dev/sss/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket | Sunrisers Leeds Women vs Southern Brave Women",⏳ ✓ Server 2 | Sunrisers Leeds Women vs Southern Brave Women | SKY CRICKET - AQ
 https://playztv.pages.dev/sss/index.m3u8
@@ -100,38 +157,32 @@ https://playztv.pages.dev/sss/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket | Sunrisers Leeds Women vs Southern Brave Women",⏳ ✓ Server 3 | Sunrisers Leeds Women vs Southern Brave Women | TAPMAD - AQ
 https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket | Sunrisers Leeds Women vs Southern Brave Women",⏳ ✓ Server 4 | Sunrisers Leeds Women vs Southern Brave Women | SONYLIV 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 1 | Formula 1 vs Formula 1 | TSN SPORTS 
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | England vs Pakistan",⏳ ✓ Server 1 | England vs Pakistan | Link 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 1 | Formula 1 vs Formula 1 | TSN SPORTS 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 2 | Formula 1 vs Formula 1 | APPLE TV HDR
 https://chatgpt.hereisman.net/playlist/53722/load-playlist?|Referer=https://gooz.aapmains.net
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 2 | Formula 1 vs Formula 1 | SKY via APPLE - AQ
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786642361-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4deb7a84195537f664a3591e2261905d|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-iptv.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 3 | Formula 1 vs Formula 1 | DRIVER TRACKER
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 3 | Formula 1 vs Formula 1 | SKY F1 DEU
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 4 | Formula 1 vs Formula 1 | MASTER’S - AQ
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 4 | Formula 1 vs Formula 1 | SKY SPORTS UHD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809394.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 5 | Formula 1 vs Formula 1 | SKY SPORT HD
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 6 | Formula 1 vs Formula 1 | SKY SPORT FHD
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 7 | Formula 1 vs Formula 1 | ELEVEN SPORTS
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a3e9ee45-11d3-485e-aa0c-18c3eee43c7a/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 6 | Formula 1 vs Formula 1 | LOW QUALITY 
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 7 | Formula 1 vs Formula 1 | DAZN ESPANOL
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 8 | Formula 1 vs Formula 1 | P1 DRIVER
 https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 9 | Formula 1 vs Formula 1 | P2 DRIVER
-https://cdn01isb-n.tamashaweb.com:8087/jazzauth/NCC-2026-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDExOjUzOjMxIEFNJmhhc2hfdmFsdWU9U0tlVFlPcm5zSDV0dVk4dmNuRFlYZz09JnZhbGlkbWludXRlcz02MA%3D%3D
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 10 | Formula 1 vs Formula 1 | P3 DRIVER
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+https://cdn01isb-n.tamashaweb.com:8087/jazzauth/NCC-2026-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDExOjUzOjMxIEFNJmhhc2hfdmFsdWU9U0tlVFlPcm5zSDV0dVk4dmNuRFlYZz09JnZhbGlkbWludXRlcz02MA%3D%3D

@@ -1,14 +1,11 @@
 #EXTM3U
 # PlayZ TV Auto-Updated Playlist
-# Generated: 2026-08-13T22:44:15.348663+06:00
+# Generated: 2026-08-13T23:48:52.257610+06:00
 # App version: 5,6,7
 # Telegram: https://t.me/playztv
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
-# Total entries: 2
+# Total entries: 1
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/2195054103/vector/tennis-rackets-with-tennis-ball-in-circle-composition-in-retro-style-sports-equipment-on.jpg?s=612x612&w=0&k=20&c=3TasXyTJWVkVGeT0ZLV_cHxV2i2_oWeGaSh5vUVt5q8=" group-title="Tennis | ATP vs WTA",🔴 ✓ Server 1 | ATP vs WTA | BEIN EN [ATP]
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/2195054103/vector/tennis-rackets-with-tennis-ball-in-circle-composition-in-retro-style-sports-equipment-on.jpg?s=612x612&w=0&k=20&c=3TasXyTJWVkVGeT0ZLV_cHxV2i2_oWeGaSh5vUVt5q8=" group-title="Tennis | ATP vs WTA",🔴 ✓ Server 2 | ATP vs WTA | BEIN EN [WTP]
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/2195054103/vector/tennis-rackets-with-tennis-ball-in-circle-composition-in-retro-style-sports-equipment-on.jpg?s=612x612&w=0&k=20&c=3TasXyTJWVkVGeT0ZLV_cHxV2i2_oWeGaSh5vUVt5q8=" group-title="Tennis | ATP vs WTA",🔴 ✓ Server 1 | ATP vs WTA | BEIN EN [WTP]
 https://playztv.pages.dev/sss/index.m3u8
