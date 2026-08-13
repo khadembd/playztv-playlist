@@ -1,14 +1,23 @@
 #EXTM3U
 # PlayZ TV Auto-Updated Playlist
-# Generated: 2026-08-13T12:03:06.841872+06:00
+# Generated: 2026-08-13T13:10:11.907892+06:00
 # App version: 5,6,7
 # Telegram: https://t.me/playztv
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
-# Total entries: 2
+# Total entries: 5
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/36606/image/dark" group-title="Cricket | Pakistan Blues vs Pakistan Whites",🔴 ✓ Server 1 | Pakistan Blues vs Pakistan Whites | TAPMAD - AQ 
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Cricket | Scotland vs Canada",🔴 ✓ Server 1 | Scotland vs Canada | ICC TV EN - AQ
+https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAgdMWnI93VGmQ9Ht_hCSBWVOWjYQG5XfTag&s" group-title="Padel | WPL vs WPL",🔴 ✓ Server 1 | WPL vs WPL | TAPMAD FHD
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786684643-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-322440449efa8988d6ba51ab3f7c24a6|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-iptv.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Cricket | Scotland vs Canada",🔴 ✓ Server 2 | Scotland vs Canada | FANCODE - IN
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/36606/image/dark" group-title="Cricket | Pakistan Blues vs Pakistan Whites",🔴 ✓ Server 1 | Pakistan Blues vs Pakistan Whites | TAMASHA PRO - AQ 
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/36606/image/dark" group-title="Cricket | Pakistan Blues vs Pakistan Whites",🔴 ✓ Server 2 | Pakistan Blues vs Pakistan Whites | PTV SPORTS HD
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAgdMWnI93VGmQ9Ht_hCSBWVOWjYQG5XfTag&s" group-title="Padel | WPL vs WPL",🔴 ✓ Server 1 | WPL vs WPL | TAPMAD - AQ
+https://playztv.pages.dev/sss/index.m3u8
