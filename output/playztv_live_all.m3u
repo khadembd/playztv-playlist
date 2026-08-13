@@ -1,8 +1,11 @@
 #EXTM3U
 # PlayZ TV Auto-Updated Playlist
-# Generated: 2026-08-13T15:01:27.002830+06:00
+# Generated: 2026-08-13T16:52:13.217347+06:00
 # App version: 5,6,7
 # Telegram: https://t.me/playztv
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 0
+# Total entries: 1
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Abha vs Al-Hazem",🔴 ✓ Server 1 | Abha vs Al-Hazem | Server 1
+https://playztv.pages.dev/sss/index.m3u8
