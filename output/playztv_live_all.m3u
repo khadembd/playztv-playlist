@@ -1,11 +1,20 @@
 #EXTM3U
 # PlayZ TV Auto-Updated Playlist
-# Generated: 2026-08-13T17:38:37.356846+06:00
+# Generated: 2026-08-13T18:42:54.775946+06:00
 # App version: 5,6,7
 # Telegram: https://t.me/playztv
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 1
+# Total entries: 4
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark" group-title="Football | Côte d'Ivoire vs Ghana",🔴 ✓ Server 1 | Côte d'Ivoire vs Ghana | Server 1
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Abha vs Al-Hazem",🔴 ✓ Server 1 | Abha vs Al-Hazem | Server 1
 https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark" group-title="Football | Côte d'Ivoire vs Ghana",🔴 ✗ Server 1 | Côte d'Ivoire vs Ghana | Server 1
+http://193.47.62.190/hls/UZZZddA.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Al Diriyah vs Al-Ahli",🔴 ✓ Server 1 | Al Diriyah vs Al-Ahli | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Al-Shabab vs Al-Qadsiah",🔴 ✗ Server 1 | Al-Shabab vs Al-Qadsiah | Server 1
+https://tencent-cdn.tapmad.com/v1/019ea6d121dd15e8f4122afee4cf8f/019ea6d2f96e15e8f0602c5e1b7bc3/master.m3u8|referer=https://tapmad.com
