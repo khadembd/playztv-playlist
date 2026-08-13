@@ -1,357 +1,59 @@
 #EXTM3U
 # PlayZ TV Auto-Updated Playlist
-# Generated: 2026-08-13T11:48:49.129109+06:00
+# Generated: 2026-08-13T12:03:06.840530+06:00
 # App version: 5,6,7
 # Telegram: https://t.me/playztv
 # Mode: HLS-only (Televizo-friendly)
-# Filter: all
+# Filter: all | Unverified: excluded
 # Total entries: 17
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Events | Cricket | ICC World Test Championship",✓ ✓ SKY SPORT NZ FHD | Australia vs Bangladesh
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",✓ ✓ Server 1 | Australia vs Bangladesh | TEN SPORTS HD
 http://193.47.62.192/hls/NNNND.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAgdMWnI93VGmQ9Ht_hCSBWVOWjYQG5XfTag&s" group-title="Events | Padel | World Padel League 26",🔴 ✓ TAPMAD FHD | WPL vs WPL
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809394.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark" group-title="Events | Cricket | Caribbean Premier League",⏰ ✓ TNT SPORTS - AQ | Jamaica Kingsmen vs Guyana Amazon Warriors
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark" group-title="Events | Cricket | Caribbean Premier League",⏰ ✓ TAPMAD - AQ | Jamaica Kingsmen vs Guyana Amazon Warriors
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark" group-title="Events | Cricket | Caribbean Premier League",⏰ ✓ FOX CRICKET HD | Jamaica Kingsmen vs Guyana Amazon Warriors
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark" group-title="Events | Cricket | Caribbean Premier League",⏰ ✓ WILLOW HD | Jamaica Kingsmen vs Guyana Amazon Warriors
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786684643-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-322440449efa8988d6ba51ab3f7c24a6|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-iptv.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/36606/image/dark" group-title="Events | Cricket | List A National Champions Cup",⏰ ✓ Link 1 | Pakistan Gold vs Pakistan Greens
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Events | Cricket | The Hundred Women",⏰ ✓ WILLOW - AQ | Sunrisers Leeds Women vs Southern Brave Women
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Events | Cricket | The Hundred Women",⏰ ✓ SKY CRICKET - AQ | Sunrisers Leeds Women vs Southern Brave Women
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786661264-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-21373f2a9e22010a8483738b60d6baa1|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-iptv.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Events | Cricket | The Hundred Women",⏰ ✓ TAPMAD - AQ | Sunrisers Leeds Women vs Southern Brave Women
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Events | Cricket | The Hundred Women",⏰ ✓ PLAYZTV LIVE | Sunrisers Leeds Women vs Southern Brave Women
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786642361-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4deb7a84195537f664a3591e2261905d|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-iptv.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Events | Cricket | ICC World Test Championship",⏰ ✓ Link 1 | Sri Lanka vs India
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/36606/image/dark" group-title="Cricket | Pakistan Blues vs Pakistan Whites",🔴 ✓ Server 1 | Pakistan Blues vs Pakistan Whites | TAPMAD - AQ 
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Events | Motorsport | Formula 1",⏰ ✓ APPLE TV HDR | Formula 1 vs Formula 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809386.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAgdMWnI93VGmQ9Ht_hCSBWVOWjYQG5XfTag&s" group-title="Padel | WPL vs WPL",🔴 ✓ Server 1 | WPL vs WPL | TAPMAD FHD
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786684643-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-322440449efa8988d6ba51ab3f7c24a6|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-iptv.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Events | Motorsport | Formula 1",⏰ ✓ SD SERVER | Formula 1 vs Formula 1
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a3e9ee45-11d3-485e-aa0c-18c3eee43c7a/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark" group-title="Cricket | Jamaica Kingsmen vs Guyana Amazon Warriors",⏳ ✓ Server 1 | Jamaica Kingsmen vs Guyana Amazon Warriors | TNT SPORTS - AQ
+https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Events | Motorsport | Formula 1",⏰ ✓ DAZN ESPANOL | Formula 1 vs Formula 1
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark" group-title="Cricket | Jamaica Kingsmen vs Guyana Amazon Warriors",⏳ ✓ Server 2 | Jamaica Kingsmen vs Guyana Amazon Warriors | TAPMAD - AQ
+https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Events | Motorsport | Formula 1",⏰ ✓ P2 DRIVER | Formula 1 vs Formula 1
-https://cdn01isb-n.tamashaweb.com:8087/jazzauth/NCC-2026-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDExOjUzOjMxIEFNJmhhc2hfdmFsdWU9U0tlVFlPcm5zSDV0dVk4dmNuRFlYZz09JnZhbGlkbWludXRlcz02MA%3D%3D
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark" group-title="Cricket | Jamaica Kingsmen vs Guyana Amazon Warriors",⏳ ✓ Server 3 | Jamaica Kingsmen vs Guyana Amazon Warriors | PlayZ TV Live
+https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Events | Motorsport | Formula 1",⏰ ✓ P3 DRIVER | Formula 1 vs Formula 1
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/36606/image/dark" group-title="Cricket | Pakistan Gold vs Pakistan Greens",⏳ ✓ Server 1 | Pakistan Gold vs Pakistan Greens | Link 1
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786661264-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-21373f2a9e22010a8483738b60d6baa1|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-iptv.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket | Sunrisers Leeds Women vs Southern Brave Women",⏳ ✓ Server 1 | Sunrisers Leeds Women vs Southern Brave Women | WILLOW - AQ
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket | Sunrisers Leeds Women vs Southern Brave Women",⏳ ✓ Server 2 | Sunrisers Leeds Women vs Southern Brave Women | SKY CRICKET - AQ
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket | Sunrisers Leeds Women vs Southern Brave Women",⏳ ✓ Server 3 | Sunrisers Leeds Women vs Southern Brave Women | TAPMAD - AQ
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket | Sunrisers Leeds Women vs Southern Brave Women",⏳ ✓ Server 4 | Sunrisers Leeds Women vs Southern Brave Women | PLAYZTV LIVE
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 
-# ============================================================
-# 📺 CHANNEL CATEGORIES (paste URLs into Televizo)
-# ============================================================
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Sri Lanka vs India",⏳ ✓ Server 1 | Sri Lanka vs India | Link 1
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809394.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71CgptZFjTL.png" group-title="Channels | m3u",Live Sports HD
-https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 1 | Formula 1 vs Formula 1 | SKY F1 DEU
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786642361-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4deb7a84195537f664a3591e2261905d|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-iptv.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71CgptZFjTL.png" group-title="Channels | m3u",Live Sports SD
-https://raw.githubusercontent.com/abusaeeidx/BDxTV/refs/heads/main/playlist_s.m3u
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 2 | Formula 1 vs Formula 1 | SKY ITALY FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809386.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets-playztv.pages.dev/category/pkk2.jpg" group-title="Channels | m3u",Pakistan
-https://m3u-tvb.pages.dev/pk.m3ux
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 3 | Formula 1 vs Formula 1 | SKY SPORT FHD
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a3e9ee45-11d3-485e-aa0c-18c3eee43c7a/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3A1vF9O3uxY8bXlwpTzJkwdy2AuwpRx1yhg48vAbuIhjrFwQA8D0EHXtFoRWOxI_wWtMPBrK2dBkzf7AHzjAPeDvFs5oUdc3g5JBjZvmFQ_SFyBjy960YJvUXfZ35DW67txWlbaRn1CH1khxCMGkXGENvLjn9n-soCDhePR82gqhz0OpCFXHFcwQ_wRg/s1600/1000409995.jpg" group-title="Channels | m3u",World Country
-https://iptv-org.github.io/iptv/index.country.m3u
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 4 | Formula 1 vs Formula 1 | P2 DRIVER
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTPJPPvgATamguJztzaWjx7hygIUCqKsXaHYZWuGbU3A&s=10" group-title="Channels | m3u",World Languages
-https://iptv-org.github.io/iptv/index.language.m3u
-
-#EXTINF:-1 tvg-logo="https://assets-playztv.pages.dev/category/plextv.png" group-title="Channels | m3u",Plex
-https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/Plex-All.m3u
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs5JEFE26mm1_sTvckgjQvDqXpAW3T52R1Wcj5MDKhkRrXzggGZkbqfYqrQcF7GQi3TC6Ar7_luyw9S_zz6FpmIFcKRvKyHD9hyphenhyphenlef7Vd6Hl1LZAoXZwFTQwivfuSNL0fl9MTDTWCTbF6R8tMrCnobn2fFGffIiDxnv3KtDS4r6SAI-T9iS83Ocb9hnBE/s16000/1000404484.jpg" group-title="Channels | m3u",BDIX TV
-https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/refs/heads/main/playlist.m3u
-
-#EXTINF:-1 tvg-logo="https://assets-playztv.pages.dev/category/sunn.png" group-title="Channels | m3u",Sun Nxt
-https://playlists-by-playztv.pages.dev/snxt
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/v3QIzknOCowrsMEhQCnggLSmY7JLwIz_te01eVdlU-EHCXGWmzUjehM8fcYZy2XqptA" group-title="Channels | m3u",Distro Tv
-https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/distrotv.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs1papuN5Mv28dJtJ-ySui0BeiNOpljPZlt-xOQIbTXQ&s=10" group-title="Channels | m3u",Dish Tv
-https://playlists-by-playztv.pages.dev/disttv-playztv.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIFWx55-mCG-IuXeVskmDXPUIvMZ0_5ZtVj6skTaedww&s=10" group-title="Channels | m3u",Z5 SD
-https://playlists-by-playztv.pages.dev/zeesd.m3u
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41mcw3k6f5L.png" group-title="Channels | m3u",YuppTv
-https://raw.githubusercontent.com/abusaeeidx/Yupptv-Playlist/refs/heads/main/playlist.m3u
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Samsung_TV_Plus_logo.png" group-title="Channels | m3u",Samsung
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/uk_samsung.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvPBPysGxV_ly6_FHwU06IF6WLQ6a-PdVuyQCH7HxrLyom7EMEqJm9DPY&s=10" group-title="Channels | m3u",LGTV IN
-https://playlists-by-playztv.pages.dev/lggtv
-
-#EXTINF:-1 tvg-logo="https://assets-playztv.pages.dev/category/myco.png" group-title="Channels | m3u",Myco
-https://m3u-tvb.pages.dev/myc.M3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSP-AQnMaE_Zxr2ortyXjuU7ZdESS0zgM4YL7qBtMhBN9knUOtHb5LsUk&s=10" group-title="Channels | m3u",Shoq Pk
-https://playlists-by-playztv.pages.dev/shoqpkk.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThztxuZ7fSKWHCAo0joPbMAWyvThLFn9LwWtgbqBNNb5kCddqhFHpBTuFV&s=10" group-title="Channels | m3u",Tapmad Pk
-https://playztv-ol-pl.deadxploit.workers.dev/?get-pl&id=tapmadpkkonly|user-agent=mozila
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tUqJV897AzIMZ9AhjTzAE021WyzsCTagSDNanjzAveWKIrmk655iBaPTGJmY7ZnNEZh0XjetSg=s900-c-k-c0x00ffffff-no-rj" group-title="Channels | m3u",Tamasha Pk
-https://playztv-ol-pl.deadxploit.workers.dev/?get-pl&id=tmatv-playztv.m3u|user-agent=mozila
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEKVJ8UJbAkqy5qTe5hf0-z4RcOoaNwn8ejNAgP3pxSBo_CuBXYk_lJenSICsAJh2mwURyFj2svyuXxodmkN09dYdLYpZ7l2alhC-VoKunOfoKO2QnZldbk6Tddc92n6HGA03MY_aQ7M22LPTtYDEBv3CyZgJJLZv0RALPUhBq7br6-IyklGFkqND-5B8/s1600/1000432086.jpg" group-title="Channels | m3u",Toffee BD
-https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_OTT_Navigator.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJkd-LAxFCqtK2Ung1Cs2vnxq-5DeWBKgHSWZn17GNzC0m02YehLoxb2w&s=10" group-title="Channels | m3u",Toffee BD 2
-https://raw.githubusercontent.com/abusaeeidx/Toffee-playlist/refs/heads/main/NS_player.json
-
-#EXTINF:-1 tvg-logo="https://assets-playztv.pages.dev/category/ayna.png" group-title="Channels | m3u",Ayna
-https://aynaa.playztv.workers.dev/pl|user-agent=myapp
-
-#EXTINF:-1 tvg-logo="https://assets-playztv.pages.dev/category/jagobd.jpeg" group-title="Channels | m3u",JagoBd
-https://m3u-tvb.pages.dev/Jjago.br.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkKOjtJ8oo4XbJFbeHao3yOUy6GjmhVB00MNi44VB5Yg&s=10" group-title="Channels | m3u",jadoo
-https://m3u-tvb2.pages.dev/jadoo.m3u
-
-#EXTINF:-1 tvg-logo="https://assets-playztv.pages.dev/category/sofast.jpg" group-title="Channels | m3u",SOFAST
-https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/SOFAST.m3u
-
-#EXTINF:-1 tvg-logo="https://assets-playztv.pages.dev/category/Pluto.png" group-title="Channels | m3u",PlutoTV
-https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/PlutoTV-All.m3u
-
-#EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2021/01/07/600b226bcfce0.png" group-title="Channels | m3u",Roku
-https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/Roku-All.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjjhJ-Ol1oKcEIdXfOMLseCu7Rlp9TCuZYuluqLsiaJZQ5CB5BUJtGSMTn&s=10" group-title="Channels | m3u",Tubi
-https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/tubi_playlist.m3u
-
-#EXTINF:-1 tvg-logo="https://assets-playztv.pages.dev/category/sitrr.png" group-title="Channels | m3u",Stirr
-https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/Stirr-All.m3u
-
-#EXTINF:-1 tvg-logo="https://assets-playztv.pages.dev/category/xumo.png" group-title="Channels | m3u",Xumo
-https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/xumo_playlist.m3u
-
-#EXTINF:-1 tvg-logo="https://assets-playztv.pages.dev/category/epicon.png" group-title="Channels | m3u",Epic On
-https://playlists-by-playztv.pages.dev/epict.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthN_TH4Wuno4dmcX6TYIuJpJnSEZOGQE6c-OV9WrO4Q&s=10" group-title="Channels | m3u",Doordarshan
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/in_doordarshan.m3u
-
-#EXTINF:-1 tvg-logo="https://assets-playztv.pages.dev/category/wvot.jpg" group-title="Channels | m3u",Waves OTT
-https://playlists-by-playztv.pages.dev/wavesno.m3u
-
-#EXTINF:-1 tvg-logo="https://assets-playztv.pages.dev/category/pishow.jpg" group-title="Channels | m3u",Pishow
-https://playztv-ol-pl.deadxploit.workers.dev/?get-pl&id=pishowxc.m3u|user-agent=mozila
-
-#EXTINF:-1 tvg-logo="https://assets-playztv.pages.dev/category/iptvwrd.jpg" group-title="Channels | m3u",World IPTV
-https://iptv-org.github.io/iptv/index.m3u
-
-#EXTINF:-1 tvg-logo="https://assets-playztv.pages.dev/category/india.jpg" group-title="Channels | m3u",INDIA IPTV
-https://iptv-org.github.io/iptv/languages/hin.m3u
-
-#EXTINF:-1 tvg-logo="https://assets-playztv.pages.dev/category/dangal.jpg" group-title="Channels | m3u",Dangal
-https://playlists-by-playztv.pages.dev/dangalp.m3u
-
-#EXTINF:-1 tvg-logo="https://assets-playztv.pages.dev/category/mxp2.jpg" group-title="Channels | m3u",Mx Player
-https://playlists-by-playztv.pages.dev/mxp.m3u
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgv1zMt7/Picsart-26-01-27-01-50-58-041.jpg" group-title="Channels | m3u",SONY IN
-https://pzsl.pzcdn.workers.dev/?get-pl|user-agent=mozila
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgv1zMt7/Picsart-26-01-27-01-50-58-041.jpg" group-title="Channels | m3u",SONY IN 2
-https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSohZW0W9TJymIUxUO7wDwLLWzxdugPz5FiRw&s" group-title="Channels | m3u",JIO IND
-https://raw.githubusercontent.com/joiptv/jojo/refs/heads/main/Jojo.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh5KeAyYdOyxaCWDPbiUsJW7Oy4v_7uFqf06rIwGxaWc6nQuNVqZ2Q_Qej&s=10" group-title="Channels | m3u",JIOTV+ IND
-https://jio-fix.pzcdn.workers.dev/
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCAFb6S5HfwpVM8kkSxvrvgGF4L9CFZCfWow&s" group-title="Channels | m3u",Jio Cinema IND
-https://alex4528.site/playlist/jcinema.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPuz9ekmjh3vEpEc3lYL4nh6Gj7y2CQTswVG-ZCHnIS1foScuwPzuyxic&s=10" group-title="Channels | m3u",JioHotstar
-https://alex4528.site/playlist/jstar.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS0OT2NFe9Jb4ofg_DrXx42EKLgyGnSGwoLg&usqp=CAU" group-title="Channels | m3u",Zee5 IN
-https://alex4528.site/playlist/z5.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgKddrFLYJQ8GGqeVWMS6go-qiQp2fslo4yn77CDJVww&s=10" group-title="Channels | m3u",Jio BD
-https://m3u-tvb.pages.dev/jiobd.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7MOZHkRSUMGL7be2j_RyQ0w_bnSZrKLZep_aRPqlpdg&s=10" group-title="Channels | m3u",Free Sports
-https://playlists-by-playztv.pages.dev/Free-Sports.m3u
-
-#EXTINF:-1 tvg-logo="https://assets-playztv.pages.dev/category/ayna.png" group-title="Channels | m3u",Ayna 2
-https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/refs/heads/main/Combined_Live_TV.m3u
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieid951B1CM9zRn2fug33YFGUOmPteJN_FQuXbZhingcWpb5zHonWN0Zze7Y1VN9jgmQdgUHgIl532BvliyJa53O8uzVIGYENW_FYcay_ENSrQWEsRodP-1i8ZpAii0lmJEaZkZIJC4nvWz1vIk1vKBuaadnaQ6TERvDT6U9ADXPuxZNeNNstl_8FByNE/s1600/1000412020.png" group-title="Channels | m3u",World
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/wc5.m3u
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVvgqfSOg6Cog1A_5Br4D_DqRTi4OHsZeCITVdR4U4fy1hU2GB1OakeNIoopVR0I2JlPOKwl8lrZCyDHlSZTtVyLl7odK8m-oA6oEQ1khUJHQ_YdsdyGy1kxjGIQIVMbuejQT7s10NKDDNoaxPPVpC8a3euHtiQuoDEqNsCH5xMZvoV82LN4TUjW196bI/s1600/1000412030.jpg" group-title="Channels | m3u",World 2.0
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia.m3u
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJsUu4WDubtBUmme93nxnuFHNr-rO1nKQ34Hi0HVkLBSTiaZU5Gq2jYYqX69M50FPTvsiKuwK2B9mYvJKZeFQpJuPgyZSszn2H8QfpZBB7HC6gb-VQcSf6aDL15yDkKxIAqRb47IedVIqYgXtoH_C0uGkIU520em6lFtzffSJ7lvBO6x6qVGD6GdZAuH4/s1600/1000428062.jpg" group-title="Channels | m3u",ZONG TV
-https://playztv-ol-pl.deadxploit.workers.dev/?get-pl&id=zong-tvv.m3u|user-agent=mozila
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LX6ZDGKT/Picsart-26-01-31-00-54-07-978.jpg" group-title="Channels | m3u",IZZI Go
-https://playlists-by-playztv.pages.dev/Izzio.go.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh5KeAyYdOyxaCWDPbiUsJW7Oy4v_7uFqf06rIwGxaWc6nQuNVqZ2Q_Qej&s=10" group-title="Channels | m3u",JIOTV+
-https://raw.githubusercontent.com/joiptv/jojo/refs/heads/main/Ser.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc3qZ1WgzPyFRX4cWIBJF0MSjWW3gZcLFycg&usqp=CAU" group-title="Channels | m3u",JIO CINEMA IN
-https://alex4528.site/playlist/jcinema.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRMrqNLs0_yq39gO-5OrZzW4916hEYfeRUXjtjmpD1rw&s=10" group-title="Channels | m3u",EK TV
-https://m3u-tvb.pages.dev/Ekek.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKEYscAeJ3Km7HrbtKGVO_MwgBOxRSc9DvmPpr5lTneA&s=10" group-title="Channels | m3u", Anime Tv
-https://raw.githubusercontent.com/delmitv/lista-IPTV/refs/heads/main/lista.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBJRyEisJNdiQEKzYGf3p8ZZtsMj_1YCYfx9ZhUp3ogQ&s=10?https://sostreampztv.pages.dev/MACX_20260217_214019xx.m3u" group-title="Channels | m3u",Hexa World
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world-1.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMzlutHxGemwVhmC-Nk6RInEKgZaZ-9o9UEWBuzc6D8A&s=10" group-title="Channels | m3u",FusionTv
-https://m3u-tvb2.pages.dev/portal-playlist.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfVvg995SN55aY_K2JMLqZnIR5SYOSXFxVyHPmjgDXLA&s=10" group-title="Channels | m3u",Jio TV+ BD 2
-https://m3u-tvb.pages.dev/jiobd3.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclIXZfMTEBAn3dc8nZbYZW05DuYXk7JpF7b6OEl1_Ag&s=10" group-title="Channels | m3u",KIDS ZONE
-https://pastebin.com/raw/typGY2Ym
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/059/283/769/non_2x/circular-spain-flag-icon-png.png" group-title="Channels | m3u",SPAIN
-https://ip-tv.app/m3u/Spain_322.m3u
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/059/283/769/non_2x/circular-spain-flag-icon-png.png" group-title="Channels | m3u",SPAIN 2
-https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_spain.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PfYwzwh2/Picsart-26-02-27-01-32-34-193.jpg" group-title="Channels | m3u",DishHome
-https://m3u-tvb.pages.dev/dmngo.m3u
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q" group-title="Channels | m3u",FANCODE IN
-https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDpmc6r0tS_bJ1MhJmNTKv1nvU2YKLzzIXsw&s" group-title="Channels | m3u",FANCODE BD
-https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/main_playlist.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWoPHfgOHaZYT222AjgtqJB2cVypMRfUdyj3TxY9oPdw&s=10SonyLiv" group-title="Channels | m3u",SonyLiv
-https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRset_viiT47GejUdcBN7zDn0hVq-TjvAXAKRwi8N2TWQ&s=10" group-title="Channels | m3u",Pocket TV IN
-https://tiny.cc/Pocket-TV
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRset_viiT47GejUdcBN7zDn0hVq-TjvAXAKRwi8N2TWQ&s=10" group-title="Channels | m3u",Pocket TV
-https://spoo.me/Pocket-m3u
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/31F7ropt9OL.png" group-title="Channels | m3u",ICC TV
-https://raw.githubusercontent.com/doctor-8trange/nexphi0/refs/heads/main/data/icc.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThztxuZ7fSKWHCAo0joPbMAWyvThLFn9LwWtgbqBNNb5kCddqhFHpBTuFV&s=10" group-title="Channels | m3u",Tapmad Sports
-https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeoputVRy78Z66IhXPu7bYcMTTXkHVAqyiTwRv6swwlA&s=10" group-title="Channels | m3u",SPORT ZONE
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/all-sports.m3u
-
-#EXTINF:-1 tvg-logo="https://assets-playztv.pages.dev/sports-category/crichd.jpg" group-title="Channels | m3u",CricHD
-https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg5wvU7jIe4QOoA3TIIqi92JIOCKQw5E9MCvV5Z6tYAAhnmVZgjhQj3l0&s=10" group-title="Channels | m3u",Cignal Tv
-https://m3u-tvb.pages.dev/Cg.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSePGfjYDmNVLvnrA2rdu4L65s3WuI6AIMKepNcNF1VSA&s=10" group-title="Channels | m3u",SF TV
-https://m3u-tvb2.pages.dev/sf-playlist.m3u
-
-#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20240530429365/en/2145074/5/logo_transparent_cb_%281%29.jpg?download=1" group-title="Channels | m3u",WILLOW LIVE
-https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Pht45WmErT7MPs5gV4aSvL-Dguh6oVOJKHnzghLUyA&s=10" group-title="Channels | m3u",TCL GB
-https://m3u-tvb2.pages.dev/tclgb.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8hYBS_3HotqO-d8qPifnkoYzJaWiMqVC_HSwbJ07TVQ&s=10" group-title="Channels | m3u",VIZIO TV
-https://raw.githubusercontent.com/lucaswyte/iptv/ae8de55d61b66f29e0f2b0ea05fd0e926c0c4042/vizio.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLHadezgXahsoVDya0qDQXw81vBZjEgKwQSnyc_m_YQ&s=10" group-title="Channels | m3u",Bangladeshi
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bd-test.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfVvg995SN55aY_K2JMLqZnIR5SYOSXFxVyHPmjgDXLA&s=10" group-title="Channels | m3u",JIO IND S3
-https://raw.githubusercontent.com/joiptv/jojo/refs/heads/main/jin.m3u
-
-#EXTINF:-1 tvg-logo="https://assets-playztv.pages.dev/category/ayna.png" group-title="Channels | m3u",AYNA+
-https://m3u-tvb.pages.dev/ayna+.m3u
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuZ5r_fXGIiD6AK_JyyNh4mmGUiVlj_KAgDRALWT7zqSLP5ECTYWKvDLB9esc_TUaYGca8sTV9q6xz2aU9HQQIVxv-AiLP9SgL2nPCXacQHdw5sj9TWYHMcA-F3y44eg1S1KMwcR8XLVB9CmkWuiVHCgLu2bnIoSfYGiiQeYqytlOHbwOCtFcbKZu7NfV9/s1600/1000446300.jpg" group-title="Channels | m3u",World 3
-https://raw.githubusercontent.com/amin8453/playlist/main/main.m3u
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4HnNDoPIMtctA_dY22R_c58uMmGrK8hft4IFV9__cYYFSjdU1zebv9IHxedbN5hgMTvypMOCZvOO6m53Rwan_Cug6XZ3sZg1fgWpKaSpplUwvS7C94BR7B6e8BE50bfw_46hrV_pZ9mJ8NyJ8LYHAS0JXnT8j1GIQdZ-EtrbpjX6I6DYVVrFtKv64cLw/s1600/1000409128.jpg" group-title="Channels | m3u",ASIA TV
-https://m3u-tvb2.pages.dev/Mac-ASIA.m3u
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4HnNDoPIMtctA_dY22R_c58uMmGrK8hft4IFV9__cYYFSjdU1zebv9IHxedbN5hgMTvypMOCZvOO6m53Rwan_Cug6XZ3sZg1fgWpKaSpplUwvS7C94BR7B6e8BE50bfw_46hrV_pZ9mJ8NyJ8LYHAS0JXnT8j1GIQdZ-EtrbpjX6I6DYVVrFtKv64cLw/s1600/1000409128.jpg" group-title="Channels | m3u",ASIA TV 2
-https://m3u-tvb2.pages.dev/asiax.m3u
-
-#EXTINF:-1 tvg-logo="https://assets-playztv.pages.dev/category/pvideo.jpg" group-title="Channels | m3u",Prime Sports
-https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/primevideo_sports.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWoPHfgOHaZYT222AjgtqJB2cVypMRfUdyj3TxY9oPdw&s=10SonyLiv" group-title="Channels | m3u",SonyLiv S2
-https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u
-
-#EXTINF:-1 tvg-logo="https://assets-playztv.pages.dev/category/akashg.jpg" group-title="Channels | m3u",AKASHGO BD
-https://solitary-shadow-cbb3.ekkktb.workers.dev/
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBcSWSwLtjkDZJWFxTiDwc3iDskH9eh_aqqYmCKVZSPQ&s=10" group-title="Channels | m3u",MOVIE & Cartoon
-https://m3u-tvb2.pages.dev/best-new.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwcD4-kDM98JD4C_eXLdezm5ikIuE6DTfJ1xMGwpvV8A&s=10" group-title="Channels | m3u",Marvel Movies
-https://m3u-tvb2.pages.dev/mr.m3u
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWOOz5Se8A8xud75Bfd4pMQPkx_Dvf6jCuFxdPwUKFwAsgXSkM6r_TiFh1NGOr0RdFnYR23mVWFLfeuBN8F_UoxpobIxq_3fW2xS3-9MxPFpt-wNATg9OwUUKmKS_oyuuPb8OUC3GT8y41GnQjTi37DOYUNcYQexjGCpwlMZ3kKgqR3gvMLX2pnvb8REA/s1600/1000408298.jpg" group-title="Channels | m3u",General Sports
-https://iptv-org.github.io/iptv/categories/sports.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDpmc6r0tS_bJ1MhJmNTKv1nvU2YKLzzIXsw&s" group-title="Channels | m3u",FC IND
-https://raw.githubusercontent.com\\/nkmisc88-jpg\\/nktv\\/5232d53b3cbc576531b266a559a81a0e76452581\\/playlist.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDpmc6r0tS_bJ1MhJmNTKv1nvU2YKLzzIXsw&s" group-title="Channels | m3u",FC BD
-https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/main_playlist.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWoPHfgOHaZYT222AjgtqJB2cVypMRfUdyj3TxY9oPdw&s=10" group-title="Channels | m3u",SonyLiv
-https://raw.githubusercontent.com/doctor-8trange/zyphora/refs/heads/main/data/sony.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="Channels | m3u",T Sports
-https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/combine_playlist.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf_o_MMKxjhpjjey8oT60BRjbwGLWD_HnxY5UACV3RY0cNeforitI1NVY&s=10" group-title="Channels | m3u",SPOEVENT HD
-https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q" group-title="Channels | m3u",FC IN 2
-https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUeV1ICuWmwNedGtVdvLTO7-fL6qaYguWihrmR1_EnQ&s=10" group-title="Channels | m3u",SPORTS HUB
-https://raw.githubusercontent.com/ali-fajar/Hub-Sports/ff9bd729587760dbb827f3f9ee695a1936d1a375/Sportssss
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ360oVrRCMTXmJ3zdUKryDA14wPoJ2bcPaGg&s" group-title="Channels | m3u",AXSPORTS 
-https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/526yq4cF/Picsart-26-01-01-23-37-24-504.jpg" group-title="Channels | m3u",Hive Sports
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Sports-s7.m3u
-
-#EXTINF:-1 tvg-logo="https://assets-playztv.pages.dev/sports-category/crichd.jpg" group-title="Channels | m3u",Cricket Live2
-https://raw.githubusercontent.com/srhady/crichd-speical-live-event/refs/heads/main/playlist.m3u
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 5 | Formula 1 vs Formula 1 | P3 DRIVER
+https://cdn01isb-n.tamashaweb.com:8087/jazzauth/NCC-2026-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDExOjUzOjMxIEFNJmhhc2hfdmFsdWU9U0tlVFlPcm5zSDV0dVk4dmNuRFlYZz09JnZhbGlkbWludXRlcz02MA%3D%3D

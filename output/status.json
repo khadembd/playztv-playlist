@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-13T11:48:49.132822+06:00",
-  "last_updated_unix": 1786600129,
+  "last_updated": "2026-08-13T12:03:06.844303+06:00",
+  "last_updated_unix": 1786600986,
   "api_url": "https://new-heylookme.shop/",
   "app_version": "5,6,7",
   "telegram": "https://t.me/playztv",
@@ -8,16 +8,19 @@
     "total_events": 13,
     "total_streams": 63,
     "verified_ok": 28,
-    "verified_failed": 35,
-    "categories": 138
+    "verified_failed": 35
   },
+  "note": "Events only \u2014 no channels/categories included",
   "verification_rate": "44.4%",
-  "run_duration_seconds": 21.6,
+  "run_duration_seconds": 19.1,
   "raw_playlist_urls": {
-    "master": "output/playztv_master.m3u",
-    "hls_only": "output/playztv_hls_only.m3u",
-    "live": "output/playztv_live.m3u",
-    "upcoming": "output/playztv_upcoming.m3u"
+    "hls_only_verified": "output/playztv_hls_only.m3u",
+    "hls_only_all": "output/playztv_hls_all.m3u",
+    "master_verified": "output/playztv_master.m3u",
+    "live_verified": "output/playztv_live.m3u",
+    "live_all": "output/playztv_live_all.m3u",
+    "upcoming_verified": "output/playztv_upcoming.m3u",
+    "upcoming_all": "output/playztv_upcoming_all.m3u"
   },
-  "github_raw_base": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/output/"
+  "github_raw_base": "https://raw.githubusercontent.com/khadembd/playztv-playlist/main/output/"
 }
