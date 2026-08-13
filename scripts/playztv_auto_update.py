@@ -350,45 +350,46 @@ def fetch_categories(api_url):
     print(f"      ✓ Categories: {len(cats)}")
     return cats
 
-def build_m3u(events, categories, app_config, hls_only=False, status_filter=None):
+def get_event_status(ev, now):
+    """Return (status_label, status_emoji, is_live, is_upcoming, is_finished)."""
+    dt = parse_event_date(ev.get('date',''), ev.get('time',''))
+    if not dt:
+        return '', '', False, False, False
+    if dt <= now <= dt + timedelta(hours=4):
+        return 'LIVE', '\U0001F534', True, False, False
+    elif dt > now:
+        return f'UPCOMING {dt.strftime("%b %d %H:%M")}', '\u23F3', False, True, False
+    else:
+        return f'FINISHED {dt.strftime("%b %d")}', '\u2713', False, False, True
+
+def build_m3u(events, app_config, hls_only=False, status_filter=None, include_unverified=False):
     """Build M3U playlist.
        hls_only: if True, only include HLS (.m3u8) streams (Televizo-friendly)
        status_filter: None | 'live' | 'upcoming' | 'finished'
+       include_unverified: if True, include ALL servers (even failed verification);
+                           if False, only verified-working servers.
+
+       Group structure: group-title="<Sport> | <TeamA> vs <TeamB>"
+       Channel name: "🔴 Server 1 | <TeamA> vs <TeamB> (label)"
     """
     now = datetime.now(BD_TZ)
     lines = [
         '#EXTM3U',
-        f'# PlayZ TV Auto-Updated Playlist',
+        '# PlayZ TV Auto-Updated Playlist',
         f'# Generated: {now.isoformat()}',
         f'# App version: {app_config.get("app_versions", "?")}',
         f'# Telegram: {app_config.get("telegram_url", "https://t.me/playztv")}',
         f'# Mode: {"HLS-only (Televizo-friendly)" if hls_only else "All streams (HLS+DASH)"}',
-        f'# Filter: {status_filter or "all"}',
+        f'# Filter: {status_filter or "all"} | Unverified: {"included" if include_unverified else "excluded"}',
         '',
     ]
 
     total = 0
     for ev in events:
-        dt = parse_event_date(ev.get('date',''), ev.get('time',''))
-        if dt:
-            if dt <= now <= dt + timedelta(hours=4):
-                status_label = 'LIVE'
-                status_emoji = '🔴'
-                if status_filter == 'upcoming': continue
-                if status_filter == 'finished': continue
-            elif dt > now:
-                status_label = f'UPCOMING {dt.strftime("%b %d %H:%M")}'
-                status_emoji = '⏰'
-                if status_filter == 'live': continue
-                if status_filter == 'finished': continue
-            else:
-                status_label = f'FINISHED {dt.strftime("%b %d")}'
-                status_emoji = '✓'
-                if status_filter == 'live': continue
-                if status_filter == 'upcoming': continue
-        else:
-            status_label = ''
-            status_emoji = ''
+        status_label, status_emoji, is_live, is_upcoming, is_finished = get_event_status(ev, now)
+        if status_filter == 'live' and not is_live: continue
+        if status_filter == 'upcoming' and not is_upcoming: continue
+        if status_filter == 'finished' and not is_finished: continue
 
         sport = ev.get('category', 'Sports')
         league = ev.get('eventName', '')
@@ -396,45 +397,34 @@ def build_m3u(events, categories, app_config, hls_only=False, status_filter=None
         team_b = ev.get('teamBName', '')
         logo = ev.get('eventLogo', '')
         link_names = ev.get('link_names', [])
-        streams = ev.get('_streams', [])
         verified = ev.get('_verified', [])
 
-        group = f"Events | {sport} | {league}"
+        # Group = "Sport | TeamA vs TeamB"
+        # This groups all servers of the same match together
+        match_name = f"{team_a} vs {team_b}" if team_a or team_b else league or 'Event'
+        group = f"{sport} | {match_name}"
 
+        # Server counter (only counts streams actually included)
+        server_num = 0
         for i, (stream, ok, msg) in enumerate(verified):
-            if not ok:
-                continue
             url = stream.get('link') if isinstance(stream, dict) else stream
             if not url:
                 continue
             base_url = url.split('|')[0].lower()
             if hls_only and not (base_url.endswith('.m3u8') or '.m3u8?' in base_url or '/index.m3u8' in base_url):
                 continue
-            label = link_names[i] if i < len(link_names) else f"Server {i+1}"
-            verify_tag = '✓' if ok else '✗'
-            name = f"{status_emoji} {verify_tag} {label} | {team_a} vs {team_b}"
+            if not ok and not include_unverified:
+                continue
+            server_num += 1
+            # Use link_names if available, else "Server N"
+            label = link_names[i] if i < len(link_names) and link_names[i] else f"Server {server_num}"
+            verify_tag = '\u2713' if ok else '\u2717'
+            # Channel name: "🔴 Server 1 | Ban vs Aus | FANCODE HD"
+            name = f"{status_emoji} {verify_tag} Server {server_num} | {match_name} | {label}"
             lines.append(f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}')
             lines.append(url)
             lines.append('')
             total += 1
-
-    # Add channel categories as playlist references
-    if not status_filter:
-        lines.append('# ============================================================')
-        lines.append('# 📺 CHANNEL CATEGORIES (paste URLs into Televizo)')
-        lines.append('# ============================================================')
-        lines.append('')
-        for cat in categories:
-            name = cat.get('name', 'Channel')
-            logo = cat.get('logo', '')
-            api = cat.get('api', '')
-            cat_type = cat.get('type', '')
-            if not api or api.startswith('channels/'):
-                continue
-            group = f"Channels | {cat_type}"
-            lines.append(f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}')
-            lines.append(api)
-            lines.append('')
 
     lines.insert(7, f'# Total entries: {total}')
     return '\n'.join(lines)
@@ -457,7 +447,8 @@ def main():
             if streams:
                 print(f"  [{i+1}/{len(events)}] {ev.get('category','?'):12} | {ev.get('teamAName','?')[:15]:15} vs {ev.get('teamBName','?')[:15]:15} | {len(streams)} streams")
 
-        categories = fetch_categories(api_url)
+        # Skip categories fetch entirely (user wants live events only)
+        categories = []
 
         # Verify all event streams in parallel
         print(f"\n[6/7] Verifying streams (parallel, 8 workers)...")
@@ -489,33 +480,47 @@ def main():
         fail_count = len(verified) - ok_count
         print(f"      ✓ Verified: {ok_count} OK, {fail_count} failed")
 
-        # Generate multiple M3U variants
-        print(f"\n[7/7] Generating M3U playlists...")
-        # 1. Master (all streams, all statuses)
-        master = build_m3u(events, categories, app_config, hls_only=False, status_filter=None)
-        with open(os.path.join(OUTPUT_DIR, "playztv_master.m3u"), 'w', encoding='utf-8') as f:
-            f.write(master)
+        # Generate multiple M3U variants — all events-only, no channels
+        print(f"\n[7/7] Generating M3U playlists (events only, no channels)...")
 
-        # 2. HLS-only (Televizo-friendly)
-        hls_only = build_m3u(events, categories, app_config, hls_only=True, status_filter=None)
+        # 1. HLS-only, verified streams only (Televizo-friendly) — MAIN playlist
+        m = build_m3u(events, app_config, hls_only=True, status_filter=None, include_unverified=False)
         with open(os.path.join(OUTPUT_DIR, "playztv_hls_only.m3u"), 'w', encoding='utf-8') as f:
-            f.write(hls_only)
+            f.write(m)
 
-        # 3. Live now (HLS only)
-        live = build_m3u(events, [], app_config, hls_only=True, status_filter='live')
+        # 2. HLS-only, ALL streams (verified + unverified) — for geo-blocked streams
+        m = build_m3u(events, app_config, hls_only=True, status_filter=None, include_unverified=True)
+        with open(os.path.join(OUTPUT_DIR, "playztv_hls_all.m3u"), 'w', encoding='utf-8') as f:
+            f.write(m)
+
+        # 3. Master (HLS+DASH), verified only — for DRM-capable players
+        m = build_m3u(events, app_config, hls_only=False, status_filter=None, include_unverified=False)
+        with open(os.path.join(OUTPUT_DIR, "playztv_master.m3u"), 'w', encoding='utf-8') as f:
+            f.write(m)
+
+        # 4. Live now (HLS only, verified)
+        m = build_m3u(events, app_config, hls_only=True, status_filter='live', include_unverified=False)
         with open(os.path.join(OUTPUT_DIR, "playztv_live.m3u"), 'w', encoding='utf-8') as f:
-            f.write(live)
+            f.write(m)
 
-        # 4. Upcoming (HLS only)
-        upcoming = build_m3u(events, [], app_config, hls_only=True, status_filter='upcoming')
+        # 5. Live now (HLS only, ALL streams incl. unverified) — fallback if geo-blocked
+        m = build_m3u(events, app_config, hls_only=True, status_filter='live', include_unverified=True)
+        with open(os.path.join(OUTPUT_DIR, "playztv_live_all.m3u"), 'w', encoding='utf-8') as f:
+            f.write(m)
+
+        # 6. Upcoming (HLS only, verified)
+        m = build_m3u(events, app_config, hls_only=True, status_filter='upcoming', include_unverified=False)
         with open(os.path.join(OUTPUT_DIR, "playztv_upcoming.m3u"), 'w', encoding='utf-8') as f:
-            f.write(upcoming)
+            f.write(m)
+
+        # 7. Upcoming (HLS only, ALL streams)
+        m = build_m3u(events, app_config, hls_only=True, status_filter='upcoming', include_unverified=True)
+        with open(os.path.join(OUTPUT_DIR, "playztv_upcoming_all.m3u"), 'w', encoding='utf-8') as f:
+            f.write(m)
 
         # Save JSON for inspection
         with open(os.path.join(OUTPUT_DIR, "events.json"), 'w', encoding='utf-8') as f:
             json.dump(events, f, indent=2, ensure_ascii=False, default=str)
-        with open(os.path.join(OUTPUT_DIR, "categories.json"), 'w', encoding='utf-8') as f:
-            json.dump(categories, f, indent=2, ensure_ascii=False)
 
         # Save stream URLs CSV
         csv_lines = ['event_id,category,league,team_a,team_b,date,time,link_name,stream_url,verified,verify_message']
@@ -541,24 +546,27 @@ def main():
                 "total_streams": len(verified),
                 "verified_ok": ok_count,
                 "verified_failed": fail_count,
-                "categories": len(categories),
             },
+            "note": "Events only — no channels/categories included",
             "verification_rate": f"{(ok_count / len(verified) * 100):.1f}%" if verified else "0%",
             "run_duration_seconds": round(time.time() - start_time, 1),
             "raw_playlist_urls": {
-                "master": "output/playztv_master.m3u",
-                "hls_only": "output/playztv_hls_only.m3u",
-                "live": "output/playztv_live.m3u",
-                "upcoming": "output/playztv_upcoming.m3u",
+                "hls_only_verified": "output/playztv_hls_only.m3u",
+                "hls_only_all": "output/playztv_hls_all.m3u",
+                "master_verified": "output/playztv_master.m3u",
+                "live_verified": "output/playztv_live.m3u",
+                "live_all": "output/playztv_live_all.m3u",
+                "upcoming_verified": "output/playztv_upcoming.m3u",
+                "upcoming_all": "output/playztv_upcoming_all.m3u",
             },
-            "github_raw_base": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/output/",
+            "github_raw_base": "https://raw.githubusercontent.com/khadembd/playztv-playlist/main/output/",
         }
         with open(os.path.join(OUTPUT_DIR, "status.json"), 'w') as f:
             json.dump(status, f, indent=2)
 
         # Print summary
-        live_count = sum(1 for e in events if parse_event_date(e.get('date',''), e.get('time','')) and parse_event_date(e.get('date',''), e.get('time','')) <= now <= parse_event_date(e.get('date',''), e.get('time','')) + timedelta(hours=4))
-        upcoming_count = sum(1 for e in events if parse_event_date(e.get('date',''), e.get('time','')) and parse_event_date(e.get('date',''), e.get('time','')) > now)
+        live_count = sum(1 for e in events if get_event_status(e, now)[2])
+        upcoming_count = sum(1 for e in events if get_event_status(e, now)[3])
         finished_count = len(events) - live_count - upcoming_count
 
         print(f"\n{'='*65}")
@@ -568,10 +576,9 @@ def main():
         print(f"             🔴 Live: {live_count} | ⏰ Upcoming: {upcoming_count} | ✓ Finished: {finished_count}")
         print(f"  Streams:   {len(verified)} total | ✓ {ok_count} OK | ✗ {fail_count} failed")
         print(f"  Verification rate: {(ok_count / len(verified) * 100):.1f}%" if verified else "  Verification rate: N/A")
-        print(f"  Categories: {len(categories)}")
         print(f"  Run time:  {round(time.time() - start_time, 1)}s")
         print(f"\n  Generated playlists in {OUTPUT_DIR}/:")
-        for fname in ['playztv_master.m3u', 'playztv_hls_only.m3u', 'playztv_live.m3u', 'playztv_upcoming.m3u', 'status.json']:
+        for fname in ['playztv_hls_only.m3u', 'playztv_hls_all.m3u', 'playztv_master.m3u', 'playztv_live.m3u', 'playztv_live_all.m3u', 'playztv_upcoming.m3u', 'playztv_upcoming_all.m3u', 'status.json']:
             fpath = os.path.join(OUTPUT_DIR, fname)
             if os.path.exists(fpath):
                 print(f"    {fname}: {os.path.getsize(fpath)} bytes")
