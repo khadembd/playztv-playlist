@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-08-13T20:14:56.501536+06:00",
-  "last_updated_unix": 1786630496,
+  "last_updated": "2026-08-13T21:48:20.348728+06:00",
+  "last_updated_unix": 1786636100,
   "api_url": "https://new-heylookme.shop/",
   "app_version": "5,6,7",
   "telegram": "https://t.me/playztv",
   "stats": {
-    "total_events": 27,
-    "total_streams": 79,
-    "verified_ok": 37,
+    "total_events": 28,
+    "total_streams": 81,
+    "verified_ok": 39,
     "verified_failed": 42
   },
   "note": "Events only \u2014 no channels/categories included",
-  "verification_rate": "46.8%",
-  "run_duration_seconds": 40.8,
+  "verification_rate": "48.1%",
+  "run_duration_seconds": 42.3,
   "raw_playlist_urls": {
     "hls_only_verified": "output/playztv_hls_only.m3u",
     "hls_only_all": "output/playztv_hls_all.m3u",

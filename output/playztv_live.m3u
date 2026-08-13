@@ -1,14 +1,14 @@
 #EXTM3U
 # PlayZ TV Auto-Updated Playlist
-# Generated: 2026-08-13T20:14:56.497248+06:00
+# Generated: 2026-08-13T21:48:20.344485+06:00
 # App version: 5,6,7
 # Telegram: https://t.me/playztv
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
 # Total entries: 2
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark" group-title="Football | Côte d'Ivoire vs Ghana",🔴 ✓ Server 1 | Côte d'Ivoire vs Ghana | SD STREAM 
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/2195054103/vector/tennis-rackets-with-tennis-ball-in-circle-composition-in-retro-style-sports-equipment-on.jpg?s=612x612&w=0&k=20&c=3TasXyTJWVkVGeT0ZLV_cHxV2i2_oWeGaSh5vUVt5q8=" group-title="Tennis | ATP vs WTA",🔴 ✓ Server 1 | ATP vs WTA | BEIN EN [ATP]
 https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Al Diriyah vs Al-Ahli",🔴 ✓ Server 1 | Al Diriyah vs Al-Ahli | Server 1
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/2195054103/vector/tennis-rackets-with-tennis-ball-in-circle-composition-in-retro-style-sports-equipment-on.jpg?s=612x612&w=0&k=20&c=3TasXyTJWVkVGeT0ZLV_cHxV2i2_oWeGaSh5vUVt5q8=" group-title="Tennis | ATP vs WTA",🔴 ✓ Server 2 | ATP vs WTA | BEIN EN [WTP]
 https://playztv.pages.dev/sss/index.m3u8
