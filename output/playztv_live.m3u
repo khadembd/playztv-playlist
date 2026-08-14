@@ -1,26 +1,35 @@
 #EXTM3U
 # PlayZ TV Auto-Updated Playlist
-# Generated: 2026-08-14T15:53:53.765348+06:00
+# Generated: 2026-08-14T16:48:07.601906+06:00
 # App version: 5,6,7
 # Telegram: https://t.me/playztv
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
-# Total entries: 6
+# Total entries: 9
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket | Sunrisers Leeds Women vs Southern Brave Women",🔴 ✓ Server 1 | Sunrisers Leeds Women vs Southern Brave Women | WILLOW - AQ
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket | Sunrisers Leeds Women vs Southern Brave Women",🔴 ✓ Server 1 | Sunrisers Leeds Women vs Southern Brave Women | SKY CRICKET - AQ
 https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket | Sunrisers Leeds Women vs Southern Brave Women",🔴 ✓ Server 2 | Sunrisers Leeds Women vs Southern Brave Women | SKY CRICKET - AQ
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket | Sunrisers Leeds Women vs Southern Brave Women",🔴 ✓ Server 2 | Sunrisers Leeds Women vs Southern Brave Women | TAPMAD - AQ
 https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket | Sunrisers Leeds Women vs Southern Brave Women",🔴 ✓ Server 3 | Sunrisers Leeds Women vs Southern Brave Women | TAPMAD - AQ
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket | Sunrisers Leeds Women vs Southern Brave Women",🔴 ✓ Server 3 | Sunrisers Leeds Women vs Southern Brave Women | PLAYZTV LIVE
 https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket | Sunrisers Leeds Women vs Southern Brave Women",🔴 ✓ Server 4 | Sunrisers Leeds Women vs Southern Brave Women | SONYLIV 
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket | Sunrisers Leeds Women vs Southern Brave Women",🔴 ✓ Server 5 | Sunrisers Leeds Women vs Southern Brave Women | PLAYZTV LIVE
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket | Sunrisers Leeds Women vs Southern Brave Women",🔴 ✓ Server 4 | Sunrisers Leeds Women vs Southern Brave Women | LOW SERVER
 https://playztv.pages.dev/sss/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Olympique de Marseille vs Atlético Madrid",🔴 ✓ Server 1 | Olympique de Marseille vs Atlético Madrid | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="Football | Parma vs Catania",🔴 ✓ Server 1 | Parma vs Catania | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="Football | Cagliari vs Arezzo",🔴 ✓ Server 1 | Cagliari vs Arezzo | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/44/image/dark" group-title="Football | Holstein Kiel vs FC St. Pauli",🔴 ✓ Server 1 | Holstein Kiel vs FC St. Pauli | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/44/image/dark" group-title="Football | Eintracht Braunschweig vs VfL Bochum 1848",🔴 ✓ Server 1 | Eintracht Braunschweig vs VfL Bochum 1848 | Server 1
 https://playztv.pages.dev/sss/index.m3u8
