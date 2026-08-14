@@ -1,6 +1,6 @@
 #EXTM3U
 # PlayZ TV Auto-Updated Playlist
-# Generated: 2026-08-15T01:41:39.591673+06:00
+# Generated: 2026-08-15T02:20:51.248144+06:00
 # App version: 8
 # Telegram: https://t.me/playztv
 # Mode: HLS-only (Televizo-friendly)
@@ -13,86 +13,77 @@ https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/2195054103/vector/tennis-rackets-with-tennis-ball-in-circle-composition-in-retro-style-sports-equipment-on.jpg?s=612x612&w=0&k=20&c=3TasXyTJWVkVGeT0ZLV_cHxV2i2_oWeGaSh5vUVt5q8=" group-title="Tennis | ATP vs WTA",✓ ✗ Server 2 | ATP vs WTA | BEIN EN [WTP]
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1786747834~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=dd209e8205d4477b0593a9303445df79e5242e29b439efec010ddb1006ec5b03|Referer=https://sonyeventsglobal.akamaized.net&Origin=https://sonyeventsglobal.akamaized.net&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Cricket | Manchester Super Giants vs Sunrisers Leeds",✓ ✗ Server 1 | Manchester Super Giants vs Sunrisers Leeds | SKY CRICKET - AQ
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Cricket | Manchester Super Giants vs Sunrisers Leeds",✓ ✗ Server 1 | Manchester Super Giants vs Sunrisers Leeds | TAPMAD - AQ
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Cricket | Manchester Super Giants vs Sunrisers Leeds",✓ ✓ Server 2 | Manchester Super Giants vs Sunrisers Leeds | TAPMAD - AQ
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Cricket | Manchester Super Giants vs Sunrisers Leeds",✓ ✗ Server 2 | Manchester Super Giants vs Sunrisers Leeds | SONYLIV 
 http://193.47.62.193/hls/AFFFFAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Cricket | Manchester Super Giants vs Sunrisers Leeds",✓ ✓ Server 3 | Manchester Super Giants vs Sunrisers Leeds | SONYLIV 
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Cricket | Manchester Super Giants vs Sunrisers Leeds",✓ ✓ Server 3 | Manchester Super Giants vs Sunrisers Leeds | LOW SERVER
 http://193.47.62.193/hls/ITTT.m3u8|origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Al-Hilal vs Al Faisaly",✓ ✗ Server 1 | Al-Hilal vs Al Faisaly | FOX SPORTS
-https://tedesco.formaturamaxi.com.br/fsp.m3u8|referer=https://roxiestreams.info/
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Al-Hilal vs Al Faisaly",✓ ✓ Server 2 | Al-Hilal vs Al Faisaly | TAPMAD - AQ 
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Al-Hilal vs Al Faisaly",✓ ✓ Server 1 | Al-Hilal vs Al Faisaly | FOX SPORTS
 http://193.47.62.191/hls/DMMMAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Al-Hilal vs Al Faisaly",✓ ✓ Server 3 | Al-Hilal vs Al Faisaly | PLAYZ TV - FHD 
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Al-Hilal vs Al Faisaly",✓ ✗ Server 2 | Al-Hilal vs Al Faisaly | TAPMAD - AQ 
+https://tedesco.formaturamaxi.com.br/fsp.m3u8|referer=https://roxiestreams.info/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="Football | Real Sociedad B vs CD Castellón",✓ ✓ Server 1 | Real Sociedad B vs CD Castellón | LaLiga Hypermotion ES
 http://193.47.62.191/hls/DMMMAAAAA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="Football | Real Sociedad B vs CD Castellón",✓ ✓ Server 1 | Real Sociedad B vs CD Castellón | HD STREAM 
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="Football | Real Sociedad B vs CD Castellón",✓ ✗ Server 2 | Real Sociedad B vs CD Castellón | LOW SERVER
 http://193.47.62.191/hls/DMMMAAAAAA.m3u8|origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="Football | Real Sociedad B vs CD Castellón",✓ ✓ Server 2 | Real Sociedad B vs CD Castellón | LOW SERVER
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Atalanta vs Athletic Club",✓ ✓ Server 1 | Atalanta vs Athletic Club | Link 1
 http://193.47.62.190/hls/RNNNAAAAA.m3u8|origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="Football | Monza vs US Avellino 1912",✓ ✓ Server 1 | Monza vs US Avellino 1912 | D SPORTS - AQ
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="Football | Monza vs US Avellino 1912",✓ ✗ Server 1 | Monza vs US Avellino 1912 | D SPORTS - AQ
+https://live.vivo200.com/live/sd-1-4567222.m3u8?txSecret=cef1472b1c83d46d63113063854e75fc&txTime=6A7F7185|Referer=https://player.online909.com/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="Football | Monza vs US Avellino 1912",✓ ✓ Server 2 | Monza vs US Avellino 1912 | CBS SPORTS - AQ
 https://hls.live123.fans/live/4599544.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football | Wolverhampton vs Blackburn Rovers",✓ ✓ Server 1 | Wolverhampton vs Blackburn Rovers | PLAYZTV LIVE 
-http://193.47.62.194/hls/siiiiaaaaA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football | Wolverhampton vs Blackburn Rovers",✓ ✓ Server 2 | Wolverhampton vs Blackburn Rovers | SKY SPORT ME
 https://www.cdn291.info/images/mot9/index.m3u8|User-Agent=o eSt720LeSbGp2 nKMiirS009k.-.oe iet0e;iei3.d7.9baH7T0 eil3AHGlbd53MaiGeKpH06 5 oC0,M5 o dt0l(7.Gu-3e c)//&Referer=https://www.cdn291.info/images/dunga37/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football | Wolverhampton vs Blackburn Rovers",✓ ✓ Server 3 | Wolverhampton vs Blackburn Rovers | SD STREAM 
-https://live.vivo200.com/live/sd-1-4567222.m3u8?txSecret=cef1472b1c83d46d63113063854e75fc&txTime=6A7F7185|Referer=https://player.online909.com/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football | Wolverhampton vs Blackburn Rovers",✓ ✓ Server 2 | Wolverhampton vs Blackburn Rovers | SKY SPORT ME
+http://193.47.62.194/hls/siiiiaaaaA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football | Wolverhampton vs Blackburn Rovers",✓ ✗ Server 4 | Wolverhampton vs Blackburn Rovers | PARAMOUNT+ FHD
-https://cast.zlive.st/p/auto-sport-tv5-0/index.m3u8|referer=https://zlive.st/
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football | Sporting CP vs Vitória SC",✓ ✓ Server 1 | Sporting CP vs Vitória SC | D SPORTS - AQ
-https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="Football | Fiorentina vs Benevento",✓ ✗ Server 1 | Fiorentina vs Benevento | SPORT 1 CZ - AQ
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="Football | Fiorentina vs Benevento",✓ ✓ Server 2 | Fiorentina vs Benevento | D SPORTS - AQ
-http://193.47.62.194/hls/siiiiaaaaAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="Football | Fiorentina vs Benevento",✓ ✓ Server 3 | Fiorentina vs Benevento | HD SERVER
-https://messi.damitv.st/live-hls/channel/efl-championship/2026-08-14/wol-blk/playlist.m3u8?tk=yAj2Owb_NVJIyPfQOCnBCA&e=1786775443|Referer=https://damitv.st/embed/?id=efl-championship/2026-08-14/wol-blk&Origin=https://damitv.st/embed/?id=efl-championship/2026-08-14/wol-blk&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="Football | Fiorentina vs Benevento",✓ ✓ Server 4 | Fiorentina vs Benevento | LOW Quality
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football | Wolverhampton vs Blackburn Rovers",✓ ✓ Server 3 | Wolverhampton vs Blackburn Rovers | HD SERVER
 https://live.vivo200.com/live/sd-1-4563504.m3u8?txSecret=87c2ace4b02773771023c3f84532836f&txTime=6A7F763A|Referer=https://player.online909.com/
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="Football | Fiorentina vs Benevento",✓ ✗ Server 5 | Fiorentina vs Benevento | PLAYZTV LIVE
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="Football | Fiorentina vs Benevento",✓ ✓ Server 1 | Fiorentina vs Benevento | ITALIA 1 - AQ
+http://193.47.62.194/hls/siiiiaaaaAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="Football | Fiorentina vs Benevento",✓ ✗ Server 2 | Fiorentina vs Benevento | SPORT 1 CZ - AQ
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="Football | Fiorentina vs Benevento",✓ ✓ Server 3 | Fiorentina vs Benevento | D SPORTS - AQ
+https://messi.damitv.st/live-hls/channel/efl-championship/2026-08-14/wol-blk/playlist.m3u8?tk=yAj2Owb_NVJIyPfQOCnBCA&e=1786775443|Referer=https://damitv.st/embed/?id=efl-championship/2026-08-14/wol-blk&Origin=https://damitv.st/embed/?id=efl-championship/2026-08-14/wol-blk&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="Football | Fiorentina vs Benevento",✓ ✓ Server 4 | Fiorentina vs Benevento | HD SERVER
+https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="Football | Fiorentina vs Benevento",✓ ✗ Server 5 | Fiorentina vs Benevento | LOW Quality
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark" group-title="Cricket | Saint Lucia Kings vs Antigua & Barbuda Falcons",🔴 ✓ Server 1 | Saint Lucia Kings vs Antigua & Barbuda Falcons | WILLOW SPORTS
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark" group-title="Cricket | Saint Lucia Kings vs Antigua & Barbuda Falcons",🔴 ✗ Server 1 | Saint Lucia Kings vs Antigua & Barbuda Falcons | TNT SPORTS - AQ
+https://cast.zlive.st/p/auto-sport-tv5-0/index.m3u8|referer=https://zlive.st/
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",🔴 ✗ Server 1 | Australia vs Bangladesh | WILLOW - AQ 
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark" group-title="Cricket | Saint Lucia Kings vs Antigua & Barbuda Falcons",🔴 ✗ Server 2 | Saint Lucia Kings vs Antigua & Barbuda Falcons | WILLOW SPORTS
 http://193.47.62.192/hls/NNNND.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",🔴 ✓ Server 2 | Australia vs Bangladesh | TAPMAD - AQ
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark" group-title="Cricket | Saint Lucia Kings vs Antigua & Barbuda Falcons",🔴 ✓ Server 3 | Saint Lucia Kings vs Antigua & Barbuda Falcons | WILLOW HD
 https://live.vivo200.com/live/sd-1-4613094.m3u8?txSecret=07630e8c4121778c35df473bcd065024&txTime=6A7F7598|Referer=https://player.online909.com/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",🔴 ✓ Server 1 | Australia vs Bangladesh | TAPMAD - AQ
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",🔴 ✓ Server 2 | Australia vs Bangladesh | FOX CRICKET
+https://playztv.pages.dev/sss/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",🔴 ✓ Server 3 | Australia vs Bangladesh | WILLOW HD
 https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",🔴 ✓ Server 4 | Australia vs Bangladesh | FOX CRICKET
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",🔴 ✓ Server 5 | Australia vs Bangladesh | TEN SPORTS HD
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",🔴 ✓ Server 6 | Australia vs Bangladesh | LOW QUALITY 
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786764750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-750313bbbe2308e96695ecf408495d34|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-iptv.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket | Ireland vs Afghanistan",⏳ ✓ Server 1 | Ireland vs Afghanistan | Server 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809386.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✗ Server 1 | Formula 1 vs Formula 1 | TSN SPORTS 
 https://g001.sadhoofiton.shop/out/v2/f7e084915a36d98fd570abe5785f1e00/index.m3u8?|referer=https://pushembdz.store/
@@ -100,47 +91,56 @@ https://g001.sadhoofiton.shop/out/v2/f7e084915a36d98fd570abe5785f1e00/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✗ Server 2 | Formula 1 vs Formula 1 | SKY via APPLE - AQ
 https://g001.sadhoofiton.shop/out/v2/ff1b694fb9b98805eb70bb7dd74986a4/index.m3u8?|referer=https://pushembdz.store/
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 3 | Formula 1 vs Formula 1 | APPLE TV HDR
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 3 | Formula 1 vs Formula 1 | PLAYZTV LIVE HD
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786764750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-750313bbbe2308e96695ecf408495d34|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-iptv.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✗ Server 4 | Formula 1 vs Formula 1 | APPLE TV FHD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✗ Server 4 | Formula 1 vs Formula 1 | DRIVER TRACKER
 https://g001.sadhoofiton.shop/out/v2/cc75a7584192385b3cdfcf871a074397/index.m3u8?|referer=https://pushembdz.store/
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 5 | Formula 1 vs Formula 1 | SKY F1 DEU
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✗ Server 6 | Formula 1 vs Formula 1 | FANCODE FHD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✗ Server 5 | Formula 1 vs Formula 1 | DRIVER DATA
 https://g001.sadhoofiton.shop/out/v2/0fa855f86cbd9ec38d0164442a9863b1/index.m3u8?|referer=https://pushembdz.store/
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✗ Server 7 | Formula 1 vs Formula 1 | SKY ITALY FHD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 6 | Formula 1 vs Formula 1 | APPLE TV FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809386.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✗ Server 7 | Formula 1 vs Formula 1 | SKY F1 DEU
 https://g001.sadhoofiton.shop/out/v2/26bceff8d461678521c0eed364a18657/index.m3u8?|referer=https://pushembdz.store/
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✗ Server 8 | Formula 1 vs Formula 1 | MASTER’S - AQ
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 8 | Formula 1 vs Formula 1 | FANCODE FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✗ Server 9 | Formula 1 vs Formula 1 | SKY ITALY FHD
 http://193.47.62.194/hls/UJJJAAAAA.m3u8|referer=http://www.fawanews.sc/
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✗ Server 9 | Formula 1 vs Formula 1 | SKY SPORTS UHD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✗ Server 10 | Formula 1 vs Formula 1 | MASTER’S - AQ
 http://193.47.62.192/hls/ZLLLQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✗ Server 10 | Formula 1 vs Formula 1 | RUSSIAN FEED
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✗ Server 11 | Formula 1 vs Formula 1 | SKY SPORTS UHD
 https://g001.sadhoofiton.shop/out/v2/1357d2f39dd2d2f5cb8e4082558b78c4/index.m3u8?|referer=https://pushembdz.store/
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 11 | Formula 1 vs Formula 1 | SD SERVER
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809395.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 12 | Formula 1 vs Formula 1 | RUSSIAN FEED
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✗ Server 12 | Formula 1 vs Formula 1 | SKY SPORT HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✗ Server 13 | Formula 1 vs Formula 1 | APPLE TV FHD
 https://g001.sadhoofiton.shop/out/v2/76d6bed91471ee91c14ca8341efae087/index.m3u8?|referer=https://pushembdz.store/
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✗ Server 13 | Formula 1 vs Formula 1 | SKY SPORT FHD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✗ Server 14 | Formula 1 vs Formula 1 | SKY SPORT HD
 https://g001.sadhoofiton.shop/out/v2/3962b7903c64e97e8cc1316030ede9e4/index.m3u8?|referer=https://pushembdz.store/
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✗ Server 14 | Formula 1 vs Formula 1 | LOW QUALITY 
-https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 15 | Formula 1 vs Formula 1 | SD SERVER
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✗ Server 15 | Formula 1 vs Formula 1 | SKY F1 DE
-https://g001.sadhoofiton.shop/out/v2/ea464b1f66cfbd061183f8d20be86316/index.m3u8?|referer=https://pushembdz.store/
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✗ Server 16 | Formula 1 vs Formula 1 | DAZN ESPANOL
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✗ Server 16 | Formula 1 vs Formula 1 | SKY SPORT HD
 https://bl.rutube.ru/livestream/a1fd78e2a2feb33f0fef612d1e89d2fb/index.m3u8?s=dZh7JGBoPLF3dWOFCuCQ7Q&e=1785073158&scheme=https|user-agent=Mozilla
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 17 | Formula 1 vs Formula 1 | P1 DRIVER
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✗ Server 17 | Formula 1 vs Formula 1 | SKY SPORT FHD
+https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✗ Server 18 | Formula 1 vs Formula 1 | LOW QUALITY 
+https://g001.sadhoofiton.shop/out/v2/ea464b1f66cfbd061183f8d20be86316/index.m3u8?|referer=https://pushembdz.store/
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 19 | Formula 1 vs Formula 1 | SKY F1 DE
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809395.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 20 | Formula 1 vs Formula 1 | P1 DRIVER
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a3e9ee45-11d3-485e-aa0c-18c3eee43c7a/master.m3u8

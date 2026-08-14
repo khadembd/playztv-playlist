@@ -68,10 +68,10 @@
       ],
       [
         {
-          "name": "TENNIS FHD",
-          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "name": "WILLOW - AQ",
+          "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4ez0nzel5u/out/v1/f62c7744a9f04e3fa845d956442d98ab/cenc.mpd",
           "scheme": 0,
-          "api": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a",
+          "api": "b15cdaf34362e1491ef3ae071e7e893d:166810dd6b122c4219b4901eb5d1a218",
           "tokenApi": ""
         },
         true,
@@ -110,10 +110,10 @@
     "_verified": [
       [
         {
-          "name": "WILLOW - AQ",
-          "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4ez0nzel5u/out/v1/f62c7744a9f04e3fa845d956442d98ab/cenc.mpd",
+          "name": "TENNIS FHD",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "scheme": 0,
-          "api": "b15cdaf34362e1491ef3ae071e7e893d:166810dd6b122c4219b4901eb5d1a218",
+          "api": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a",
           "tokenApi": ""
         },
         true,
@@ -182,10 +182,21 @@
     "_verified": [
       [
         {
-          "name": "BEIN EN [WTP]",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "name": "FOX SPORTS",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "scheme": 0,
-          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+          "tokenApi": ""
+        },
+        true,
+        "OK (MPD valid)"
+      ],
+      [
+        {
+          "name": "ONE PPV - AQ ",
+          "link": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+          "scheme": 0,
+          "api": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d",
           "tokenApi": ""
         },
         true,
@@ -210,8 +221,8 @@
           "api": "",
           "tokenApi": ""
         },
-        true,
-        "OK (media playlist)"
+        false,
+        "HTTP 404"
       ],
       [
         {
@@ -223,17 +234,6 @@
         },
         true,
         "OK (media playlist)"
-      ],
-      [
-        {
-          "name": "ONE PPV - AQ ",
-          "link": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
-          "scheme": 0,
-          "api": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d",
-          "tokenApi": ""
-        },
-        true,
-        "OK (MPD valid)"
       ]
     ]
   },
@@ -287,10 +287,10 @@
       ],
       [
         {
-          "name": "FOX SPORTS",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "name": "BEIN EN [WTP]",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "scheme": 0,
-          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
           "tokenApi": ""
         },
         true,
@@ -345,17 +345,6 @@
     "_verified": [
       [
         {
-          "name": "PLAYZ TV - FHD ",
-          "link": "https://tedesco.formaturamaxi.com.br/fsp.m3u8|referer=https://roxiestreams.info/",
-          "scheme": 0,
-          "api": "",
-          "tokenApi": ""
-        },
-        false,
-        "not M3U8"
-      ],
-      [
-        {
           "name": "LOW SERVER",
           "link": "http://193.47.62.191/hls/DMMMAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
           "scheme": 0,
@@ -367,14 +356,25 @@
       ],
       [
         {
-          "name": "SD STREAM",
-          "link": "http://193.47.62.191/hls/DMMMAAAAA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "name": "PLAYZ TV - FHD ",
+          "link": "https://tedesco.formaturamaxi.com.br/fsp.m3u8|referer=https://roxiestreams.info/",
           "scheme": 0,
           "api": "",
           "tokenApi": ""
         },
+        false,
+        "not M3U8"
+      ],
+      [
+        {
+          "name": "PREMIER SPORTS - AQ",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "scheme": 0,
+          "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+          "tokenApi": ""
+        },
         true,
-        "OK (media playlist)"
+        "OK (MPD valid)"
       ]
     ]
   },
@@ -425,6 +425,17 @@
     "_verified": [
       [
         {
+          "name": "SD STREAM",
+          "link": "http://193.47.62.191/hls/DMMMAAAAA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+          "scheme": 0,
+          "api": "",
+          "tokenApi": ""
+        },
+        true,
+        "OK (media playlist)"
+      ],
+      [
+        {
           "name": "LaLiga Hypermotion ES",
           "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
           "scheme": 0,
@@ -442,19 +453,8 @@
           "api": "",
           "tokenApi": ""
         },
-        true,
-        "OK (media playlist)"
-      ],
-      [
-        {
-          "name": "Link 1",
-          "link": "http://193.47.62.190/hls/RNNNAAAAA.m3u8|origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
-          "scheme": 0,
-          "api": "",
-          "tokenApi": ""
-        },
-        true,
-        "OK (media playlist)"
+        false,
+        "HTTP 404"
       ]
     ]
   },
@@ -489,10 +489,10 @@
     "_verified": [
       [
         {
-          "name": "D SPORTS - AQ",
-          "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+          "name": "BEIN ENGLISH",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "scheme": 0,
-          "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
           "tokenApi": ""
         },
         true,
@@ -531,14 +531,14 @@
     "_verified": [
       [
         {
-          "name": "PREMIER SPORTS - AQ",
-          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "name": "Link 1",
+          "link": "http://193.47.62.190/hls/RNNNAAAAA.m3u8|origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
           "scheme": 0,
-          "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+          "api": "",
           "tokenApi": ""
         },
         true,
-        "OK (MPD valid)"
+        "OK (media playlist)"
       ]
     ]
   },
@@ -631,14 +631,25 @@
     "_verified": [
       [
         {
-          "name": "BEIN ENGLISH",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "name": "D SPORTS - AQ",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
           "scheme": 0,
-          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+          "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
           "tokenApi": ""
         },
         true,
         "OK (MPD valid)"
+      ],
+      [
+        {
+          "name": "HD STREAM ",
+          "link": "https://live.vivo200.com/live/sd-1-4567222.m3u8?txSecret=cef1472b1c83d46d63113063854e75fc&txTime=6A7F7185|Referer=https://player.online909.com/",
+          "scheme": 0,
+          "api": "",
+          "tokenApi": ""
+        },
+        false,
+        "HTTP 403"
       ],
       [
         {
@@ -649,18 +660,7 @@
           "tokenApi": ""
         },
         true,
-        "OK (master+variant+segment)"
-      ],
-      [
-        {
-          "name": "SportDigital Fussball",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "scheme": 0,
-          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "tokenApi": ""
-        },
-        true,
-        "OK (MPD valid)"
+        "OK (master only)"
       ]
     ]
   },
@@ -746,17 +746,6 @@
       ],
       [
         {
-          "name": "SD STREAM ",
-          "link": "http://193.47.62.194/hls/siiiiaaaaA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-          "scheme": 0,
-          "api": "",
-          "tokenApi": ""
-        },
-        true,
-        "OK (media playlist)"
-      ],
-      [
-        {
           "name": "SKY SPORT ME",
           "link": "https://www.cdn291.info/images/mot9/index.m3u8|User-Agent=o eSt720LeSbGp2 nKMiirS009k.-.oe iet0e;iei3.d7.9baH7T0 eil3AHGlbd53MaiGeKpH06 5 oC0,M5 o dt0l(7.Gu-3e c)//&Referer=https://www.cdn291.info/images/dunga37/index.m3u8",
           "scheme": 0,
@@ -768,19 +757,8 @@
       ],
       [
         {
-          "name": "D SPORTS - AQ",
-          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "scheme": 0,
-          "api": "",
-          "tokenApi": ""
-        },
-        true,
-        "OK (MPD valid)"
-      ],
-      [
-        {
-          "name": "HD STREAM ",
-          "link": "https://live.vivo200.com/live/sd-1-4567222.m3u8?txSecret=cef1472b1c83d46d63113063854e75fc&txTime=6A7F7185|Referer=https://player.online909.com/",
+          "name": "SD STREAM ",
+          "link": "http://193.47.62.194/hls/siiiiaaaaA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
           "scheme": 0,
           "api": "",
           "tokenApi": ""
@@ -790,14 +768,36 @@
       ],
       [
         {
-          "name": "HD SERVER",
-          "link": "https://cast.zlive.st/p/auto-sport-tv5-0/index.m3u8|referer=https://zlive.st/",
+          "name": "PLAYZTV LIVE ",
+          "link": "https://live.vivo200.com/live/sd-1-4563504.m3u8?txSecret=87c2ace4b02773771023c3f84532836f&txTime=6A7F763A|Referer=https://player.online909.com/",
           "scheme": 0,
           "api": "",
           "tokenApi": ""
         },
-        false,
-        "HTTP 502"
+        true,
+        "OK (media playlist)"
+      ],
+      [
+        {
+          "name": "ITALIA 1 - AQ",
+          "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
+          "scheme": 0,
+          "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
+          "tokenApi": ""
+        },
+        true,
+        "OK (MPD valid)"
+      ],
+      [
+        {
+          "name": "SportDigital Fussball",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "scheme": 0,
+          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+          "tokenApi": ""
+        },
+        true,
+        "OK (MPD valid)"
       ]
     ]
   },
@@ -840,10 +840,10 @@
     "_verified": [
       [
         {
-          "name": "ITALIA 1 - AQ",
-          "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
+          "name": "SPORT 1 CZ - AQ",
+          "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
           "scheme": 0,
-          "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
+          "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
           "tokenApi": ""
         },
         true,
@@ -851,14 +851,14 @@
       ],
       [
         {
-          "name": "HD SERVER",
-          "link": "https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+          "name": "D SPORTS - AQ",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "scheme": 0,
           "api": "",
           "tokenApi": ""
         },
         true,
-        "OK (media playlist)"
+        "OK (MPD valid)"
       ]
     ]
   },
@@ -933,14 +933,14 @@
     "_verified": [
       [
         {
-          "name": "SPORT 1 CZ - AQ",
-          "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "name": "LOW Quality",
+          "link": "http://193.47.62.194/hls/siiiiaaaaAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
           "scheme": 0,
-          "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "api": "",
           "tokenApi": ""
         },
         true,
-        "OK (MPD valid)"
+        "OK (media playlist)"
       ],
       [
         {
@@ -955,17 +955,6 @@
       ],
       [
         {
-          "name": "LOW Quality",
-          "link": "http://193.47.62.194/hls/siiiiaaaaAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-          "scheme": 0,
-          "api": "",
-          "tokenApi": ""
-        },
-        true,
-        "OK (media playlist)"
-      ],
-      [
-        {
           "name": "PARAMOUNT+ FHD",
           "link": "https://messi.damitv.st/live-hls/channel/efl-championship/2026-08-14/wol-blk/playlist.m3u8?tk=yAj2Owb_NVJIyPfQOCnBCA&e=1786775443|Referer=https://damitv.st/embed/?id=efl-championship/2026-08-14/wol-blk&Origin=https://damitv.st/embed/?id=efl-championship/2026-08-14/wol-blk&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
           "scheme": 0,
@@ -977,8 +966,8 @@
       ],
       [
         {
-          "name": "PLAYZTV LIVE ",
-          "link": "https://live.vivo200.com/live/sd-1-4563504.m3u8?txSecret=87c2ace4b02773771023c3f84532836f&txTime=6A7F763A|Referer=https://player.online909.com/",
+          "name": "HD SERVER",
+          "link": "https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
           "scheme": 0,
           "api": "",
           "tokenApi": ""
@@ -996,6 +985,17 @@
         },
         false,
         "HTTP 403"
+      ],
+      [
+        {
+          "name": "WILLOW SPORTS",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "scheme": 0,
+          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "tokenApi": ""
+        },
+        true,
+        "OK (MPD valid)"
       ]
     ]
   },
@@ -1052,6 +1052,17 @@
     "_verified": [
       [
         {
+          "name": "HD SERVER",
+          "link": "https://cast.zlive.st/p/auto-sport-tv5-0/index.m3u8|referer=https://zlive.st/",
+          "scheme": 0,
+          "api": "",
+          "tokenApi": ""
+        },
+        false,
+        "HTTP 502"
+      ],
+      [
+        {
           "name": "TNT SPORTS - AQ",
           "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
           "scheme": 0,
@@ -1063,43 +1074,29 @@
       ],
       [
         {
-          "name": "WILLOW SPORTS",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "name": "LOW QUALITY ",
+          "link": "http://193.47.62.192/hls/NNNND.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
           "scheme": 0,
-          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "api": "",
           "tokenApi": ""
         },
-        true,
-        "OK (MPD valid)"
+        false,
+        "HTTP 404"
       ],
       [
         {
-          "name": "SKY CRICKET - AQ",
-          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+          "name": "PLAYZTV LIVE",
+          "link": "https://live.vivo200.com/live/sd-1-4613094.m3u8?txSecret=07630e8c4121778c35df473bcd065024&txTime=6A7F7598|Referer=https://player.online909.com/",
           "scheme": 0,
           "api": "",
           "tokenApi": ""
         },
         true,
-        "OK (master+variant+segment)"
-      ],
-      [
-        {
-          "name": "WILLOW - AQ ",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8pgf2bl9ys/out/v1/52ec2605c0cd4a34b57b44d47be7ea9f/cenc.mpd",
-          "scheme": 0,
-          "api": "39940cfcd0fe9b262d3cf16a58cc23cf:790f0f14a81197fb17f31518cc23992e",
-          "tokenApi": ""
-        },
-        false,
-        "HTTP 403"
+        "OK (media playlist)"
       ]
     ]
   },
   {
-    "visible": true,
-    "isHot": false,
-    "priority": -1,
     "category": "Cricket",
     "eventName": "ICC World Test Championship",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",
@@ -1107,39 +1104,26 @@
     "teamBName": "Bangladesh",
     "teamAFlag": "https://img.sofascore.com/api/v1/team/187746/image",
     "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-    "date": "15/08/2026",
+    "links": "pro/SUNDIFdvcmxkIFRlc3QgQ2hhbXBpb25zaGlwLUF1c3RyYWxpYS12cy1CYW5nbGFkZXNoMTc4NjU3MjgwNzI1Mw.txt",
     "time": "00:30:00",
-    "end_date": "15/08/2026",
+    "date": "15/08/2026",
     "end_time": "08:00:00",
+    "end_date": "15/08/2026",
+    "visible": true,
+    "isHot": false,
+    "priority": -1,
     "link_names": [
-      "WILLOW - AQ ",
       "TAPMAD - AQ",
-      "WILLOW HD",
       "FOX CRICKET",
-      "SKY SPORT NZ HD",
+      "WILLOW HD",
       "TEN SPORTS HD",
       "SKY SPORT NZ",
       "LOW QUALITY "
     ],
-    "links": "pro/SUNDIFdvcmxkIFRlc3QgQ2hhbXBpb25zaGlwLUF1c3RyYWxpYS12cy1CYW5nbGFkZXNoMTc4NjU3MjgwNzI1Mw.txt",
     "_streams": [
-      {
-        "name": "WILLOW - AQ ",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8pgf2bl9ys/out/v1/52ec2605c0cd4a34b57b44d47be7ea9f/cenc.mpd",
-        "scheme": 0,
-        "api": "39940cfcd0fe9b262d3cf16a58cc23cf:790f0f14a81197fb17f31518cc23992e",
-        "tokenApi": ""
-      },
       {
         "name": "TAPMAD - AQ",
         "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "WILLOW HD",
-        "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786764750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-750313bbbe2308e96695ecf408495d34|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-iptv.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
@@ -1152,8 +1136,8 @@
         "tokenApi": ""
       },
       {
-        "name": "SKY SPORT NZ HD",
-        "link": "https://latestmovies.net/api/live/playlist/591",
+        "name": "WILLOW HD",
+        "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786764750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-750313bbbe2308e96695ecf408495d34|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-iptv.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
@@ -1183,22 +1167,8 @@
     "_verified": [
       [
         {
-          "name": "LOW QUALITY ",
-          "link": "http://193.47.62.192/hls/NNNND.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-          "scheme": 0,
-          "api": "",
-          "tokenApi": ""
-        },
-        false,
-        "HTTP 404"
-      ],
-      [
-        {
-          "name": "PLAYZTV LIVE",
-          "link": "https://live.vivo200.com/live/sd-1-4613094.m3u8?txSecret=07630e8c4121778c35df473bcd065024&txTime=6A7F7598|Referer=https://player.online909.com/",
-          "scheme": 0,
-          "api": "",
-          "tokenApi": ""
+          "name": "Link 1",
+          "link": "https://playztv.pages.dev/sss/index.m3u8"
         },
         true,
         "OK (media playlist)"
@@ -1218,6 +1188,17 @@
         },
         true,
         "OK (media playlist)"
+      ],
+      [
+        {
+          "name": "TSN SPORTS ",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "scheme": 0,
+          "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+          "tokenApi": ""
+        },
+        true,
+        "OK (MPD valid)"
       ],
       [
         {
@@ -1232,14 +1213,6 @@
       ],
       [
         {
-          "name": "Link 1",
-          "link": "https://playztv.pages.dev/sss/index.m3u8"
-        },
-        true,
-        "OK (media playlist)"
-      ],
-      [
-        {
           "name": "SKY via APPLE - AQ",
           "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x6oqpug9mu/out/v1/502432e8607547b4a6278d3cc64d5b78/cenc.mpd",
           "scheme": 0,
@@ -1248,17 +1221,6 @@
         },
         false,
         "HTTP 403"
-      ],
-      [
-        {
-          "name": "WILLOW HD",
-          "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786764750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-750313bbbe2308e96695ecf408495d34|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-iptv.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "scheme": 0,
-          "api": "",
-          "tokenApi": ""
-        },
-        true,
-        "OK (media playlist)"
       ]
     ]
   },
@@ -1291,14 +1253,14 @@
     "_verified": [
       [
         {
-          "name": "TSN SPORTS ",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "name": "APPLE TV HDR",
+          "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/s5abnqp0hh/out/v1/4a3f90f679244cbf94eba54386f291ec/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "scheme": 0,
-          "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+          "api": "6aa2dbe2528b97043a0eded15e59d713:73655e545e7da6135dbb94abab908572",
           "tokenApi": ""
         },
-        true,
-        "OK (MPD valid)"
+        false,
+        "HTTP 403"
       ]
     ]
   },
@@ -1323,14 +1285,14 @@
     "_verified": [
       [
         {
-          "name": "WILLOW HD",
-          "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809386.m3u8",
+          "name": "DRIVER TRACKER",
+          "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/l1aov82zx6/out/v1/bb00837881b647b990b3446da2fd2082/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "scheme": 0,
-          "api": "",
+          "api": "24654a0a3ffb0964af9bed4c51efa8d7:4282ff5adbb69a90dff3c287cba36bf8",
           "tokenApi": ""
         },
-        true,
-        "OK (master+variant, segment check skipped)"
+        false,
+        "HTTP 403"
       ]
     ]
   },
@@ -1397,10 +1359,10 @@
     "_verified": [
       [
         {
-          "name": "APPLE TV HDR",
-          "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/s5abnqp0hh/out/v1/4a3f90f679244cbf94eba54386f291ec/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "name": "DRIVER DATA",
+          "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qnx9wmc6pw/out/v1/f81ebfa4cb054b30af2f47554d9ae2e0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "scheme": 0,
-          "api": "6aa2dbe2528b97043a0eded15e59d713:73655e545e7da6135dbb94abab908572",
+          "api": "5bb7f3ae42be88488779e5046e884f36:429927f4462913ccae02ec755a75e05f",
           "tokenApi": ""
         },
         false,
@@ -1685,25 +1647,14 @@
       ],
       [
         {
-          "name": "DRIVER TRACKER",
-          "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/l1aov82zx6/out/v1/bb00837881b647b990b3446da2fd2082/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "scheme": 0,
-          "api": "24654a0a3ffb0964af9bed4c51efa8d7:4282ff5adbb69a90dff3c287cba36bf8",
-          "tokenApi": ""
-        },
-        false,
-        "HTTP 403"
-      ],
-      [
-        {
-          "name": "FOX CRICKET",
-          "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8",
+          "name": "WILLOW HD",
+          "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786764750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-750313bbbe2308e96695ecf408495d34|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-iptv.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "scheme": 0,
           "api": "",
           "tokenApi": ""
         },
         true,
-        "OK (master+variant, segment check skipped)"
+        "OK (media playlist)"
       ],
       [
         {
@@ -1711,17 +1662,6 @@
           "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
           "scheme": 0,
           "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-          "tokenApi": ""
-        },
-        false,
-        "HTTP 403"
-      ],
-      [
-        {
-          "name": "DRIVER DATA",
-          "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qnx9wmc6pw/out/v1/f81ebfa4cb054b30af2f47554d9ae2e0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "scheme": 0,
-          "api": "5bb7f3ae42be88488779e5046e884f36:429927f4462913ccae02ec755a75e05f",
           "tokenApi": ""
         },
         false,
@@ -1740,17 +1680,6 @@
       ],
       [
         {
-          "name": "TEN SPORTS HD",
-          "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8",
-          "scheme": 0,
-          "api": "",
-          "tokenApi": ""
-        },
-        true,
-        "OK (master+variant, segment check skipped)"
-      ],
-      [
-        {
           "name": "SKY ITALY FHD",
           "link": "https://g001.sadhoofiton.shop/out/v2/0fa855f86cbd9ec38d0164442a9863b1/index.m3u8?|referer=https://pushembdz.store/",
           "scheme": 0,
@@ -1762,6 +1691,17 @@
       ],
       [
         {
+          "name": "WILLOW HD",
+          "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809386.m3u8",
+          "scheme": 0,
+          "api": "",
+          "tokenApi": ""
+        },
+        true,
+        "OK (master+variant, segment check skipped)"
+      ],
+      [
+        {
           "name": "APPLE TV FHD",
           "link": "https://g001.sadhoofiton.shop/out/v2/26bceff8d461678521c0eed364a18657/index.m3u8?|referer=https://pushembdz.store/",
           "scheme": 0,
@@ -1770,6 +1710,17 @@
         },
         false,
         "HTTP 404"
+      ],
+      [
+        {
+          "name": "TEN SPORTS HD",
+          "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8",
+          "scheme": 0,
+          "api": "",
+          "tokenApi": ""
+        },
+        true,
+        "OK (master+variant, segment check skipped)"
       ],
       [
         {
@@ -1806,30 +1757,8 @@
       ],
       [
         {
-          "name": "F1 TV FHD",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
-          "scheme": 0,
-          "api": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3",
-          "tokenApi": ""
-        },
-        true,
-        "OK (MPD valid)"
-      ],
-      [
-        {
-          "name": "F1 TV FHD",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
-          "scheme": 0,
-          "api": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3",
-          "tokenApi": ""
-        },
-        true,
-        "OK (MPD valid)"
-      ],
-      [
-        {
-          "name": "SKY SPORT NZ",
-          "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809395.m3u8",
+          "name": "FOX CRICKET",
+          "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8",
           "scheme": 0,
           "api": "",
           "tokenApi": ""
@@ -1861,6 +1790,28 @@
       ],
       [
         {
+          "name": "SKY CRICKET - AQ",
+          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+          "scheme": 0,
+          "api": "",
+          "tokenApi": ""
+        },
+        true,
+        "OK (master+variant+segment)"
+      ],
+      [
+        {
+          "name": "RUSSIAN FEED",
+          "link": "https://bl.rutube.ru/livestream/a1fd78e2a2feb33f0fef612d1e89d2fb/index.m3u8?s=dZh7JGBoPLF3dWOFCuCQ7Q&e=1785073158&scheme=https|user-agent=Mozilla",
+          "scheme": 0,
+          "api": "",
+          "tokenApi": ""
+        },
+        false,
+        "HTTP 410"
+      ],
+      [
+        {
           "name": "SKY SPORT HD",
           "link": "https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
           "scheme": 0,
@@ -1869,17 +1820,6 @@
         },
         false,
         "HTTP 404"
-      ],
-      [
-        {
-          "name": "P3 DRIVER",
-          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ojhbld8mty/out/v1/939b1a9a672c440fa9af29e3911a45a1/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "scheme": 0,
-          "api": "66f901e0531dac3c1b1a67d99e7c5f86:e03f3dc7a3628b495cda4d047c76c229",
-          "tokenApi": ""
-        },
-        false,
-        "HTTP 403"
       ],
       [
         {
@@ -1905,6 +1845,17 @@
       ],
       [
         {
+          "name": "SKY SPORT NZ",
+          "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809395.m3u8",
+          "scheme": 0,
+          "api": "",
+          "tokenApi": ""
+        },
+        true,
+        "OK (master+variant, segment check skipped)"
+      ],
+      [
+        {
           "name": "P2 DRIVER",
           "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/g6ssuvaio5/out/v1/061a5659e0564c3bbe8bd6619a5931a5/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "scheme": 0,
@@ -1916,10 +1867,10 @@
       ],
       [
         {
-          "name": "MIXED ON BOARD",
-          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/av9rryjmfh/out/v1/dc587d2edd254017a118ad8065a1d9ac/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "name": "P3 DRIVER",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ojhbld8mty/out/v1/939b1a9a672c440fa9af29e3911a45a1/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "scheme": 0,
-          "api": "e644836e8b1e87ad5d684fd4ad58e375:b9601de9e150d514c20d19c20d922365",
+          "api": "66f901e0531dac3c1b1a67d99e7c5f86:e03f3dc7a3628b495cda4d047c76c229",
           "tokenApi": ""
         },
         false,
@@ -1927,14 +1878,25 @@
       ],
       [
         {
-          "name": "RUSSIAN FEED",
-          "link": "https://bl.rutube.ru/livestream/a1fd78e2a2feb33f0fef612d1e89d2fb/index.m3u8?s=dZh7JGBoPLF3dWOFCuCQ7Q&e=1785073158&scheme=https|user-agent=Mozilla",
+          "name": "F1 TV FHD",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
           "scheme": 0,
-          "api": "",
+          "api": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3",
           "tokenApi": ""
         },
-        false,
-        "HTTP 410"
+        true,
+        "OK (MPD valid)"
+      ],
+      [
+        {
+          "name": "F1 TV FHD",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
+          "scheme": 0,
+          "api": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3",
+          "tokenApi": ""
+        },
+        true,
+        "OK (MPD valid)"
       ],
       [
         {
@@ -1949,6 +1911,17 @@
       ],
       [
         {
+          "name": "MIXED ON BOARD",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/av9rryjmfh/out/v1/dc587d2edd254017a118ad8065a1d9ac/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "scheme": 0,
+          "api": "e644836e8b1e87ad5d684fd4ad58e375:b9601de9e150d514c20d19c20d922365",
+          "tokenApi": ""
+        },
+        false,
+        "HTTP 403"
+      ],
+      [
+        {
           "name": "ELEVEN SPORTS",
           "link": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
           "scheme": 0,
@@ -1957,17 +1930,6 @@
         },
         true,
         "OK (MPD valid)"
-      ],
-      [
-        {
-          "name": "SKY SPORT NZ HD",
-          "link": "https://latestmovies.net/api/live/playlist/591",
-          "scheme": 0,
-          "api": "",
-          "tokenApi": ""
-        },
-        false,
-        "no response"
       ],
       [
         {
