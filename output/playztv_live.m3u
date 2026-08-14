@@ -1,11 +1,11 @@
 #EXTM3U
 # PlayZ TV Auto-Updated Playlist
-# Generated: 2026-08-15T03:15:19.385511+06:00
+# Generated: 2026-08-15T04:11:37.784314+06:00
 # App version: 8
 # Telegram: https://t.me/playztv
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
-# Total entries: 4
+# Total entries: 3
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",🔴 ✓ Server 1 | Australia vs Bangladesh | TAPMAD - AQ
 https://playztv.pages.dev/sss/index.m3u8
@@ -15,6 +15,3 @@ https://playztv.pages.dev/sss/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",🔴 ✓ Server 3 | Australia vs Bangladesh | WILLOW HD
 https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",🔴 ✓ Server 4 | Australia vs Bangladesh | TEN SPORTS HD
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786764750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-750313bbbe2308e96695ecf408495d34|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-iptv.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
