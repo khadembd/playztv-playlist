@@ -1,23 +1,14 @@
 #EXTM3U
 # PlayZ TV Auto-Updated Playlist
-# Generated: 2026-08-14T21:40:48.328956+06:00
-# App version: 7
+# Generated: 2026-08-14T22:39:29.553200+06:00
+# App version: 8
 # Telegram: https://t.me/playztv
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
-# Total entries: 5
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Al-Ettifaq vs Al-Riyadh",🔴 ✓ Server 1 | Al-Ettifaq vs Al-Riyadh | Server 1
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Al-Hilal vs Al Faisaly",🔴 ✓ Server 1 | Al-Hilal vs Al Faisaly | Server 1
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="Football | Real Sociedad B vs CD Castellón",🔴 ✓ Server 1 | Real Sociedad B vs CD Castellón | Server 1
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Coventry City vs AS Monaco",🔴 ✓ Server 1 | Coventry City vs AS Monaco | Server 1
-https://playztv.pages.dev/sss/index.m3u8
+# Total entries: 2
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Atalanta vs Athletic Club",🔴 ✓ Server 1 | Atalanta vs Athletic Club | Server 1
-https://playztv.pages.dev/sss/index.m3u8
+https://chatgpt.hereisman.net/playlist/54621/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football | Sporting CP vs Vitória SC",🔴 ✓ Server 1 | Sporting CP vs Vitória SC | SportDigital Fussball
+https://hls.live123.fans/live/4613093.m3u8
