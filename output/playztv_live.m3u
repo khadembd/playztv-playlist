@@ -1,17 +1,11 @@
 #EXTM3U
 # PlayZ TV Auto-Updated Playlist
-# Generated: 2026-08-14T18:38:52.401787+06:00
+# Generated: 2026-08-14T20:08:10.296876+06:00
 # App version: 7
 # Telegram: https://t.me/playztv
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
-# Total entries: 10
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Olympique de Marseille vs Atlético Madrid",🔴 ✓ Server 1 | Olympique de Marseille vs Atlético Madrid | Server 1
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="Football | Parma vs Catania",🔴 ✓ Server 1 | Parma vs Catania | Server 1
-https://playztv.pages.dev/sss/index.m3u8
+# Total entries: 15
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="Football | Cagliari vs Arezzo",🔴 ✓ Server 1 | Cagliari vs Arezzo | Server 1
 https://playztv.pages.dev/sss/index.m3u8
@@ -25,14 +19,35 @@ https://playztv.pages.dev/sss/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Neom SC vs Al-Fayha",🔴 ✓ Server 1 | Neom SC vs Al-Fayha | Server 1
 https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Cricket | Manchester Super Giants vs Sunrisers Leeds",🔴 ✓ Server 1 | Manchester Super Giants vs Sunrisers Leeds | Server 1
-https://playztv.pages.dev/sss/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Al-Ettifaq vs Al-Riyadh",🔴 ✓ Server 1 | Al-Ettifaq vs Al-Riyadh | Server 1
 https://playztv.pages.dev/sss/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Al-Hilal vs Al Faisaly",🔴 ✓ Server 1 | Al-Hilal vs Al Faisaly | Server 1
 https://playztv.pages.dev/sss/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="Football | Real Sociedad B vs CD Castellón",🔴 ✓ Server 1 | Real Sociedad B vs CD Castellón | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Coventry City vs AS Monaco",🔴 ✓ Server 1 | Coventry City vs AS Monaco | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/182/image/dark" group-title="Football | Annecy FC vs Rodez AF",🔴 ✓ Server 1 | Annecy FC vs Rodez AF | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/182/image/dark" group-title="Football | Stade Lavallois vs Nantes",🔴 ✓ Server 1 | Stade Lavallois vs Nantes | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/182/image/dark" group-title="Football | Grenoble Foot 38 vs Metz",🔴 ✓ Server 1 | Grenoble Foot 38 vs Metz | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/182/image/dark" group-title="Football | Guingamp vs US Boulogne Côte-d'Opale",🔴 ✓ Server 1 | Guingamp vs US Boulogne Côte-d'Opale | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/182/image/dark" group-title="Football | Red Star FC vs Sochaux",🔴 ✓ Server 1 | Red Star FC vs Sochaux | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/38/image/dark" group-title="Football | Cercle Brugge vs Sint-Truidense VV",🔴 ✓ Server 1 | Cercle Brugge vs Sint-Truidense VV | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="Football | Monza vs US Avellino 1912",🔴 ✓ Server 1 | Monza vs US Avellino 1912 | Server 1
 https://playztv.pages.dev/sss/index.m3u8
