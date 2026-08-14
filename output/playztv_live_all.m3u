@@ -1,6 +1,6 @@
 #EXTM3U
 # PlayZ TV Auto-Updated Playlist
-# Generated: 2026-08-14T06:59:59.859505+06:00
+# Generated: 2026-08-14T09:24:38.100013+06:00
 # App version: 5,6,7
 # Telegram: https://t.me/playztv
 # Mode: HLS-only (Televizo-friendly)
@@ -8,7 +8,7 @@
 # Total entries: 2
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23342/image/dark" group-title="Cricket | Italy vs Singapore",🔴 ✗ Server 1 | Italy vs Singapore | ICC TV EN - AQ
-https://tencent-cdn.tapmad.com/v1/019ea6d121dd15e8f4122afee4cf8f/019ea6d2f96e15e8f0602c5e1b7bc3/master.m3u8|referer=https://tapmad.com
+http://193.47.62.190/hls/UZZZddA.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23342/image/dark" group-title="Cricket | Bahrain vs Hong Kong C.",🔴 ✗ Server 1 | Bahrain vs Hong Kong C. | ICC TV EN - AQ
-http://193.47.62.190/hls/UZZZddA.m3u8
+https://tencent-cdn.tapmad.com/v1/019ea6d121dd15e8f4122afee4cf8f/019ea6d2f96e15e8f0602c5e1b7bc3/master.m3u8|referer=https://tapmad.com
