@@ -1,6 +1,6 @@
 #EXTM3U
 # PlayZ TV Auto-Updated Playlist
-# Generated: 2026-08-14T23:43:44.805843+06:00
+# Generated: 2026-08-15T00:39:19.132383+06:00
 # App version: 8
 # Telegram: https://t.me/playztv
 # Mode: HLS-only (Televizo-friendly)
@@ -11,4 +11,4 @@
 https://playztv.pages.dev/sss/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark" group-title="Cricket | Saint Lucia Kings vs Antigua & Barbuda Falcons",🔴 ✓ Server 2 | Saint Lucia Kings vs Antigua & Barbuda Falcons | PlayZ TV Live
-https://hls.live123.fans/live/4613093.m3u8
+https://cast.zlive.st/p/auto-sport-tv5-0/index.m3u8|referer=https://zlive.st/
