@@ -1,29 +1,26 @@
 #EXTM3U
 # PlayZ TV Auto-Updated Playlist
-# Generated: 2026-08-15T02:20:51.249476+06:00
+# Generated: 2026-08-15T03:15:19.386196+06:00
 # App version: 8
 # Telegram: https://t.me/playztv
 # Mode: HLS-only (Televizo-friendly)
 # Filter: upcoming | Unverified: excluded
-# Total entries: 7
+# Total entries: 6
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 1 | Formula 1 vs Formula 1 | PLAYZTV LIVE HD
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786764750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-750313bbbe2308e96695ecf408495d34|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-iptv.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 2 | Formula 1 vs Formula 1 | APPLE TV FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809386.m3u8
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 3 | Formula 1 vs Formula 1 | FANCODE FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 4 | Formula 1 vs Formula 1 | RUSSIAN FEED
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 1 | Formula 1 vs Formula 1 | TSN SPORTS 
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 5 | Formula 1 vs Formula 1 | SD SERVER
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 2 | Formula 1 vs Formula 1 | APPLE TV HDR
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809386.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 6 | Formula 1 vs Formula 1 | SKY F1 DE
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 3 | Formula 1 vs Formula 1 | DRIVER TRACKER
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 4 | Formula 1 vs Formula 1 | FANCODE FHD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809395.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 7 | Formula 1 vs Formula 1 | P1 DRIVER
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 5 | Formula 1 vs Formula 1 | SKY SPORT HD
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 6 | Formula 1 vs Formula 1 | P1 DRIVER
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a3e9ee45-11d3-485e-aa0c-18c3eee43c7a/master.m3u8
