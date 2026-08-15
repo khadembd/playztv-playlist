@@ -1,47 +1,26 @@
 #EXTM3U
 # PlayZ TV Auto-Updated Playlist
-# Generated: 2026-08-15T20:13:31.839340+06:00
+# Generated: 2026-08-15T21:11:38.772440+06:00
 # App version: 8
 # Telegram: https://t.me/playztv
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 13
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football | Sheffield United vs Birmingham City",🔴 ✓ Server 1 | Sheffield United vs Birmingham City | beIN ENG - AQ
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football | Sheffield United vs Birmingham City",🔴 ✓ Server 2 | Sheffield United vs Birmingham City | CBS SPORTS
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football | Sheffield United vs Birmingham City",🔴 ✓ Server 3 | Sheffield United vs Birmingham City | SD STREAM 
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Atlético Madrileño vs Zamora CF",🔴 ✓ Server 1 | Atlético Madrileño vs Zamora CF | Server 1
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Toulouse vs Hamburger SV",🔴 ✓ Server 1 | Toulouse vs Hamburger SV | Server 1
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | CF Badalona vs Espanyol B",🔴 ✓ Server 1 | CF Badalona vs Espanyol B | Server 1
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football | Académico Viseu FC vs Santa Clara",🔴 ✗ Server 1 | Académico Viseu FC vs Santa Clara | Server 1
-http://193.47.62.193/hls/AUUUUAAAA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+# Total entries: 6
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Inter vs Real Betis",🔴 ✓ Server 1 | Inter vs Real Betis | Server 1
 https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Al-Ittihad vs Al-Kholood",🔴 ✓ Server 1 | Al-Ittihad vs Al-Kholood | Server 1
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Al-Nassr vs Al-Fateh",🔴 ✓ Server 1 | Al-Nassr vs Al-Fateh | SporTV BR
 https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="Football | Torino vs Carrarese",🔴 ✓ Server 1 | Torino vs Carrarese | D Sports FHD
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Al-Nassr vs Al-Fateh",🔴 ✓ Server 2 | Al-Nassr vs Al-Fateh | FOX DEPORTES
 https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="Football | Torino vs Carrarese",🔴 ✓ Server 2 | Torino vs Carrarese | ITALIA 1 FHD
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="Football | Venezia vs Modena",🔴 ✗ Server 1 | Venezia vs Modena | Server 1
+http://193.47.62.193/hls/AUUUUAAAA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="Football | Torino vs Carrarese",🔴 ✓ Server 1 | Torino vs Carrarese | ITALIA 1 FHD
 https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football | Fluminense vs Palmeiras",🔴 ✓ Server 1 | Fluminense vs Palmeiras | Server 1
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football | Rio Ave vs FC Porto",🔴 ✓ Server 1 | Rio Ave vs FC Porto | D Sports FHD
-https://playztv.pages.dev/sss/index.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football | Sevilla vs Rayo Vallecano",🔴 ✗ Server 1 | Sevilla vs Rayo Vallecano | beIN EN - AQ
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
