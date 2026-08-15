@@ -1,28 +1,25 @@
 #EXTM3U
 # PlayZ TV Auto-Updated Playlist
-# Generated: 2026-08-15T16:13:15.542788+06:00
+# Generated: 2026-08-15T17:11:21.434331+06:00
 # App version: 8
 # Telegram: https://t.me/playztv
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 16
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Chelsea vs Real Sociedad",🔴 ✓ Server 1 | Chelsea vs Real Sociedad | Server 1
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/602/image/dark" group-title="Football | Singapore vs Thailand",🔴 ✓ Server 1 | Singapore vs Thailand | Server 1
-https://playztv.pages.dev/sss/index.m3u8
+# Total entries: 26
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | 1. FC Union Berlin vs Ipswich Town",🔴 ✓ Server 1 | 1. FC Union Berlin vs Ipswich Town | Server 1
 https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | 1. FSV Mainz 05 vs Bournemouth",🔴 ✓ Server 1 | 1. FSV Mainz 05 vs Bournemouth | Server 1
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Borussia M'gladbach vs Aston Villa",🔴 ✓ Server 1 | Borussia M'gladbach vs Aston Villa | Server 1
 https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Borussia M'gladbach vs Aston Villa",🔴 ✓ Server 1 | Borussia M'gladbach vs Aston Villa | Server 1
-https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Brighton & Hove Albion vs Bologna",🔴 ✓ Server 1 | Brighton & Hove Albion vs Bologna | Server 1
+https://live2.streambylivepulse.com/live/channel1.m3u8|Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://xoilac.textliveupdaterz.com/
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Tottenham Hotspur vs TSG Hoffenheim",🔴 ✓ Server 1 | Tottenham Hotspur vs TSG Hoffenheim | D Sports -AQ
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Tottenham Hotspur vs TSG Hoffenheim",🔴 ✓ Server 1 | Tottenham Hotspur vs TSG Hoffenheim | beIN EN - AQ
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Everton vs Lille",🔴 ✓ Server 1 | Everton vs Lille | Server 1
 https://playztv.pages.dev/sss/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Newcastle United vs Bayer 04 Leverkusen",🔴 ✓ Server 1 | Newcastle United vs Bayer 04 Leverkusen | CBS SPORTS
@@ -35,22 +32,55 @@ https://playztv.pages.dev/sss/index.m3u8
 https://playztv.pages.dev/sss/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football | Norwich City vs West Bromwich Albion",🔴 ✓ Server 1 | Norwich City vs West Bromwich Albion | Server 1
+https://live2.streambylivepulse.com/live/channel11.m3u8|Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://xoilac.textliveupdaterz.com/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football | Middlesbrough vs Lincoln City",🔴 ✓ Server 1 | Middlesbrough vs Lincoln City | BEIN SPORTS
 https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football | FC Alverca vs CF Estrela Amadora",🔴 ✓ Server 1 | FC Alverca vs CF Estrela Amadora | Sport TV1 HD
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786853855-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f8598fe3f57e691ad1a4ba3a5218d65b|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-iptv.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | AC Milan vs Manchester United",🔴 ✓ Server 1 | AC Milan vs Manchester United | SportDigital Fussball
+https://rdcstream.life/live/sport-tv-1-pt/index.m3u8?|Referer=https://bolodechocolate.fit/
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | AC Milan vs Manchester United",🔴 ✓ Server 1 | AC Milan vs Manchester United | MU TV HD
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | AC Milan vs Manchester United",🔴 ✓ Server 2 | AC Milan vs Manchester United | MU TV HD
+https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | AC Milan vs Manchester United",🔴 ✓ Server 3 | AC Milan vs Manchester United | MU TV
 https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | AC Milan vs Manchester United",🔴 ✓ Server 2 | AC Milan vs Manchester United | MU TV
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | AC Milan vs Manchester United",🔴 ✓ Server 4 | AC Milan vs Manchester United | Sport TV2 HD
+https://live2.streambylivepulse.com/live/channel6.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://xoilac.textliveupdaterz.com/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Borussia Dortmund vs AS Roma",🔴 ✓ Server 1 | Borussia Dortmund vs AS Roma | D Sports FHD
 https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | AC Milan vs Manchester United",🔴 ✓ Server 3 | AC Milan vs Manchester United | Sport TV2 HD
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Borussia Dortmund vs AS Roma",🔴 ✓ Server 2 | Borussia Dortmund vs AS Roma | FOX DEPORTES
 https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Borussia Dortmund vs AS Roma",🔴 ✓ Server 1 | Borussia Dortmund vs AS Roma | FOX DEPORTES
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="Football | Catanzaro vs Südtirol",🔴 ✓ Server 1 | Catanzaro vs Südtirol | Server 1
 https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Le Mans vs Le Havre",🔴 ✓ Server 1 | Le Mans vs Le Havre | Server 1
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Al-Taawoun vs Al-Khaleej",🔴 ✓ Server 1 | Al-Taawoun vs Al-Khaleej | Server 1
 https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/2195054103/vector/tennis-rackets-with-tennis-ball-in-circle-composition-in-retro-style-sports-equipment-on.jpg?s=612x612&w=0&k=20&c=3TasXyTJWVkVGeT0ZLV_cHxV2i2_oWeGaSh5vUVt5q8=" group-title="Tennis | ATP vs WTA",🔴 ✓ Server 1 | ATP vs WTA | TENNIS FHD
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="Football | Udinese vs Padova",🔴 ✓ Server 1 | Udinese vs Padova | ITALIA 1 FHD
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football | Sheffield United vs Birmingham City",🔴 ✓ Server 1 | Sheffield United vs Birmingham City | beIN ENG - AQ
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football | Sheffield United vs Birmingham City",🔴 ✓ Server 2 | Sheffield United vs Birmingham City | CBS SPORTS
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Atlético Madrileño vs Zamora CF",🔴 ✓ Server 1 | Atlético Madrileño vs Zamora CF | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Toulouse vs Hamburger SV",🔴 ✓ Server 1 | Toulouse vs Hamburger SV | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="Football | Cádiz vs Celta Fortuna",🔴 ✓ Server 1 | Cádiz vs Celta Fortuna | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football | Académico Viseu FC vs Santa Clara",🔴 ✓ Server 1 | Académico Viseu FC vs Santa Clara | Server 1
+https://playztv.pages.dev/sss/index.m3u8
