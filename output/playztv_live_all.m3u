@@ -1,8 +1,17 @@
 #EXTM3U
 # PlayZ TV Auto-Updated Playlist
-# Generated: 2026-08-15T05:11:11.900789+06:00
+# Generated: 2026-08-15T06:38:22.734375+06:00
 # App version: 8
 # Telegram: https://t.me/playztv
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 0
+# Total entries: 3
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Sri Lanka vs India",🔴 ✓ Server 1 | Sri Lanka vs India | TNT SPORTS - AQ 
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23342/image/dark" group-title="Cricket | Singapore vs Uganda",🔴 ✗ Server 1 | Singapore vs Uganda | Server 1
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23342/image/dark" group-title="Cricket | Tanzania vs Bahrain",🔴 ✓ Server 1 | Tanzania vs Bahrain | Server 1
+https://playztv.pages.dev/sss/index.m3u8
