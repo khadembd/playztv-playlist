@@ -1,43 +1,34 @@
 #EXTM3U
 # PlayZ TV Auto-Updated Playlist
-# Generated: 2026-08-15T08:10:44.373229+06:00
+# Generated: 2026-08-15T09:33:10.642017+06:00
 # App version: 8
 # Telegram: https://t.me/playztv
 # Mode: HLS-only (Televizo-friendly)
 # Filter: all | Unverified: excluded
-# Total entries: 65
+# Total entries: 63
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",✓ ✓ Server 1 | Australia vs Bangladesh | TAPMAD - AQ
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",✓ ✓ Server 1 | Australia vs Bangladesh | WILLOW - AQ
 https://latestmovies.net/api/live/playlist/592?.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",✓ ✓ Server 2 | Australia vs Bangladesh | WILLOW S2
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",✓ ✓ Server 2 | Australia vs Bangladesh | FOX CRICKET
 https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",✓ ✓ Server 3 | Australia vs Bangladesh | FOX CRICKET
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",✓ ✓ Server 3 | Australia vs Bangladesh | WILLOW HD
 https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",✓ ✓ Server 4 | Australia vs Bangladesh | WILLOW HD
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",✓ ✓ Server 4 | Australia vs Bangladesh | LOW QUALITY 
 https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",✓ ✓ Server 5 | Australia vs Bangladesh | TEN SPORTS HD
-http://193.47.62.192/hls/NNNND.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Australia vs Bangladesh",✓ ✓ Server 6 | Australia vs Bangladesh | LOW QUALITY 
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket | Sri Lanka vs India",✓ ✓ Server 1 | Sri Lanka vs India | TNT SPORTS - AQ 
 https://playztv.pages.dev/sss/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23342/image/dark" group-title="Cricket | Singapore vs Uganda",🔴 ✓ Server 1 | Singapore vs Uganda | Server 1
 https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23342/image/dark" group-title="Cricket | Tanzania vs Bahrain",🔴 ✓ Server 1 | Tanzania vs Bahrain | Server 1
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Arenas Club vs Osasuna B",⏳ ✓ Server 1 | Arenas Club vs Osasuna B | Server 1
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Arenas Club vs Osasuna B",🔴 ✓ Server 1 | Arenas Club vs Osasuna B | Server 1
 https://playztv.pages.dev/sss/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket | Ireland vs Afghanistan",⏳ ✓ Server 1 | Ireland vs Afghanistan | Server 1
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/36606/image/dark" group-title="Cricket | Pakistan Blues vs Pakistan Greens",⏳ ✓ Server 1 | Pakistan Blues vs Pakistan Greens | Server 1
 https://playztv.pages.dev/sss/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAgdMWnI93VGmQ9Ht_hCSBWVOWjYQG5XfTag&s" group-title="Padel | WPL vs WPL",⏳ ✓ Server 1 | WPL vs WPL | TAPMAD - AQ
@@ -47,6 +38,9 @@ https://playztv.pages.dev/sss/index.m3u8
 https://playztv.pages.dev/sss/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/44/image/dark" group-title="Football | VfL Osnabrück vs 1. FC Magdeburg",⏳ ✓ Server 1 | VfL Osnabrück vs 1. FC Magdeburg | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | SC Freiburg vs Crystal Palace",⏳ ✓ Server 1 | SC Freiburg vs Crystal Palace | Server 1
 https://playztv.pages.dev/sss/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | SC Freiburg vs Crystal Palace",⏳ ✓ Server 1 | SC Freiburg vs Crystal Palace | Server 1
@@ -68,10 +62,10 @@ https://playztv.pages.dev/sss/index.m3u8
 https://playztv.pages.dev/sss/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | 1. FSV Mainz 05 vs Bournemouth",⏳ ✓ Server 1 | 1. FSV Mainz 05 vs Bournemouth | Server 1
-https://playztv.pages.dev/sss/index.m3u8
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786835852-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-516bc3a0544bbb4f90ad5cc233682aa8|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-iptv.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Borussia M'gladbach vs Aston Villa",⏳ ✓ Server 1 | Borussia M'gladbach vs Aston Villa | Server 1
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786764750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-750313bbbe2308e96695ecf408495d34|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-iptv.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://playztv.pages.dev/sss/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Brighton & Hove Albion vs Bologna",⏳ ✓ Server 1 | Brighton & Hove Albion vs Bologna | Server 1
 https://playztv.pages.dev/sss/index.m3u8
@@ -104,7 +98,7 @@ https://playztv.pages.dev/sss/index.m3u8
 https://playztv.pages.dev/sss/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Fulham vs VfB Stuttgart",⏳ ✓ Server 1 | Fulham vs VfB Stuttgart | Server 1
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786835852-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-516bc3a0544bbb4f90ad5cc233682aa8|Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-iptv.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://playztv.pages.dev/sss/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Le Mans vs Le Havre",⏳ ✓ Server 1 | Le Mans vs Le Havre | Server 1
 https://playztv.pages.dev/sss/index.m3u8
@@ -178,26 +172,26 @@ https://playztv.pages.dev/sss/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="Football | Houston Dynamo vs LA Galaxy",⏳ ✓ Server 1 | Houston Dynamo vs LA Galaxy | Server 1
 https://playztv.pages.dev/sss/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="Football | Colorado Rapids vs Sporting Kansas City",⏳ ✓ Server 1 | Colorado Rapids vs Sporting Kansas City | Server 1
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="Football | Nashville SC vs Inter Miami CF",⏳ ✓ Server 1 | Nashville SC vs Inter Miami CF | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Nottingham Forest vs Stade Brestois",⏳ ✓ Server 1 | Nottingham Forest vs Stade Brestois | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket | Trent Rockets Women vs Sunrisers Leeds Women",⏳ ✓ Server 1 | Trent Rockets Women vs Sunrisers Leeds Women | TAPMAD - AQ
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="Football | Real Salt Lake vs Minnesota United",⏳ ✓ Server 1 | Real Salt Lake vs Minnesota United | Server 1
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 1 | Formula 1 vs Formula 1 | TSN SPORTS 
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809386.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/44/image/dark" group-title="Football | Hannover 96 vs VfL Wolfsburg",⏳ ✓ Server 1 | Hannover 96 vs VfL Wolfsburg | Server 1
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket | Trent Rockets Women vs Sunrisers Leeds Women",⏳ ✓ Server 1 | Trent Rockets Women vs Sunrisers Leeds Women | WILLOW - AQ
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket | Trent Rockets Women vs Sunrisers Leeds Women",⏳ ✓ Server 2 | Trent Rockets Women vs Sunrisers Leeds Women | LOW SERVER
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 2 | Formula 1 vs Formula 1 | FANCODE FHD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 1 | Formula 1 vs Formula 1 | ELEVEN SPORTS
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 3 | Formula 1 vs Formula 1 | SKY SPORT FHD
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a3e9ee45-11d3-485e-aa0c-18c3eee43c7a/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 2 | Formula 1 vs Formula 1 | DAZN ESPANOL
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 4 | Formula 1 vs Formula 1 | F1 TV FHD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809386.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 3 | Formula 1 vs Formula 1 | P2 DRIVER
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport | Formula 1 vs Formula 1",⏳ ✓ Server 5 | Formula 1 vs Formula 1 | P3 DRIVER
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
