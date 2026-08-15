@@ -1,14 +1,23 @@
 #EXTM3U
 # PlayZ TV Auto-Updated Playlist
-# Generated: 2026-08-15T10:22:28.120797+06:00
+# Generated: 2026-08-15T11:17:41.223710+06:00
 # App version: 8
 # Telegram: https://t.me/playztv
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
-# Total entries: 2
+# Total entries: 5
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Arenas Club vs Osasuna B",🔴 ✓ Server 1 | Arenas Club vs Osasuna B | Server 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809386.m3u8
+https://playztv.pages.dev/sss/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/36606/image/dark" group-title="Cricket | Pakistan Blues vs Pakistan Greens",🔴 ✓ Server 1 | Pakistan Blues vs Pakistan Greens | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAgdMWnI93VGmQ9Ht_hCSBWVOWjYQG5XfTag&s" group-title="Padel | WPL vs WPL",🔴 ✓ Server 1 | WPL vs WPL | TAPMAD - AQ
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAgdMWnI93VGmQ9Ht_hCSBWVOWjYQG5XfTag&s" group-title="Padel | WPL vs WPL",🔴 ✓ Server 2 | WPL vs WPL | WILLOW SP - AQ 
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/44/image/dark" group-title="Football | VfL Osnabrück vs 1. FC Magdeburg",🔴 ✓ Server 1 | VfL Osnabrück vs 1. FC Magdeburg | Server 1
 https://playztv.pages.dev/sss/index.m3u8
