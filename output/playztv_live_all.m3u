@@ -1,25 +1,19 @@
 #EXTM3U
 # PlayZ TV Auto-Updated Playlist
-# Generated: 2026-08-15T13:24:08.798501+06:00
+# Generated: 2026-08-15T14:17:18.517308+06:00
 # App version: 8
 # Telegram: https://t.me/playztv
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 9
+# Total entries: 18
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Arenas Club vs Osasuna B",🔴 ✓ Server 1 | Arenas Club vs Osasuna B | Server 1
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket | Ireland vs Afghanistan",🔴 ✓ Server 1 | Ireland vs Afghanistan | Server 1
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/36606/image/dark" group-title="Cricket | Pakistan Blues vs Pakistan Greens",🔴 ✗ Server 1 | Pakistan Blues vs Pakistan Greens | Server 1
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAgdMWnI93VGmQ9Ht_hCSBWVOWjYQG5XfTag&s" group-title="Padel | WPL vs WPL",🔴 ✓ Server 1 | WPL vs WPL | TAPMAD - AQ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAgdMWnI93VGmQ9Ht_hCSBWVOWjYQG5XfTag&s" group-title="Padel | WPL vs WPL",🔴 ✓ Server 1 | WPL vs WPL | WILLOW SP - AQ 
 https://playztv.pages.dev/sss/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/44/image/dark" group-title="Football | VfL Osnabrück vs 1. FC Magdeburg",🔴 ✓ Server 1 | VfL Osnabrück vs 1. FC Magdeburg | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | SC Freiburg vs Crystal Palace",🔴 ✓ Server 1 | SC Freiburg vs Crystal Palace | Server 1
 https://playztv.pages.dev/sss/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | SV Werder Bremen vs Auxerre",🔴 ✓ Server 1 | SV Werder Bremen vs Auxerre | Server 1
@@ -32,4 +26,37 @@ https://playztv.pages.dev/sss/index.m3u8
 https://playztv.pages.dev/sss/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/602/image/dark" group-title="Football | Singapore vs Thailand",🔴 ✓ Server 1 | Singapore vs Thailand | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | 1. FSV Mainz 05 vs Bournemouth",🔴 ✓ Server 1 | 1. FSV Mainz 05 vs Bournemouth | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Borussia M'gladbach vs Aston Villa",🔴 ✓ Server 1 | Borussia M'gladbach vs Aston Villa | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Brighton & Hove Albion vs Bologna",🔴 ✓ Server 1 | Brighton & Hove Albion vs Bologna | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Tottenham Hotspur vs TSG Hoffenheim",🔴 ✓ Server 1 | Tottenham Hotspur vs TSG Hoffenheim | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Everton vs Lille",🔴 ✓ Server 1 | Everton vs Lille | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Newcastle United vs Bayer 04 Leverkusen",🔴 ✓ Server 1 | Newcastle United vs Bayer 04 Leverkusen | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Hull City vs Nice",🔴 ✓ Server 1 | Hull City vs Nice | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Sunderland vs Stade Rennais",🔴 ✓ Server 1 | Sunderland vs Stade Rennais | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Brentford vs Eintracht Frankfurt",🔴 ✓ Server 1 | Brentford vs Eintracht Frankfurt | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football | Norwich City vs West Bromwich Albion",🔴 ✓ Server 1 | Norwich City vs West Bromwich Albion | Server 1
+https://playztv.pages.dev/sss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football | Middlesbrough vs Lincoln City",🔴 ✓ Server 1 | Middlesbrough vs Lincoln City | Server 1
 https://playztv.pages.dev/sss/index.m3u8
