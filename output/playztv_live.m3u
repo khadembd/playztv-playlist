@@ -1,14 +1,14 @@
 #EXTM3U
 # PlayZ TV Auto-Updated Playlist
-# Generated: 2026-08-15T09:33:10.646165+06:00
+# Generated: 2026-08-15T10:22:28.120797+06:00
 # App version: 8
 # Telegram: https://t.me/playztv
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
 # Total entries: 2
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23342/image/dark" group-title="Cricket | Singapore vs Uganda",🔴 ✓ Server 1 | Singapore vs Uganda | Server 1
-https://playztv.pages.dev/sss/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Arenas Club vs Osasuna B",🔴 ✓ Server 1 | Arenas Club vs Osasuna B | Server 1
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809386.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/36606/image/dark" group-title="Cricket | Pakistan Blues vs Pakistan Greens",🔴 ✓ Server 1 | Pakistan Blues vs Pakistan Greens | Server 1
 https://playztv.pages.dev/sss/index.m3u8
