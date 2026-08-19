@@ -132,11 +132,24 @@ def decrypt_app_txt(raw):
 
 def decrypt_other(raw):
     """events.txt / categories.txt / sports.txt / link files:
-       char-substitute + base64 + base64 + AES Key1/IV1."""
-    step1 = m8614b(raw)
-    step1_text = step1.decode('utf-8')
-    step2 = base64.b64decode(step1_text)
-    return aes_decrypt(step2, KEY1, IV1).decode('utf-8')
+       char-substitute + base64 + base64 + AES Key1/IV1.
+       Falls back to decrypt_app_txt format if old format fails."""
+    # Try original format
+    try:
+        step1 = m8614b(raw)
+        step1_text = step1.decode('utf-8')
+        step2 = base64.b64decode(step1_text)
+        return aes_decrypt(step2, KEY1, IV1).decode('utf-8')
+    except (UnicodeDecodeError, Exception):
+        pass
+    # Fallback: try app.txt-style format (direct base64 + AES Key2/IV2)
+    try:
+        return decrypt_app_txt(raw)
+    except Exception:
+        pass
+    # Final fallback: return empty JSON array
+    print('      ! Decryption failed — server format may have changed')
+    return '[]'
 
 def fetch_and_decrypt(api_url, path, decryptor):
     raw = http_get(api_url + path).decode('utf-8').strip()
@@ -312,6 +325,8 @@ def fetch_events(api_url):
             inner = json.loads(item['event'])
             events.append(inner)
         except: continue
+    if not events:
+        print('      ! No events parsed (empty or decryption failure)')
     visible = [e for e in events if e.get('visible', True)]
     print(f"      ✓ Total: {len(events)}, Visible: {len(visible)}")
     visible.sort(key=lambda e: parse_event_date(e.get('date',''), e.get('time','')) or datetime.max.replace(tzinfo=BD_TZ))
