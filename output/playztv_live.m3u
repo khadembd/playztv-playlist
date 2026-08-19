@@ -1,20 +1,8 @@
 #EXTM3U
 # PlayZ TV Auto-Updated Playlist
-# Generated: 2026-08-15T21:11:38.771463+06:00
+# Generated: 2026-08-20T01:18:23.549700+06:00
 # App version: 8
 # Telegram: https://t.me/playztv
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
-# Total entries: 4
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football | Inter vs Real Betis",🔴 ✓ Server 1 | Inter vs Real Betis | Server 1
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Al-Nassr vs Al-Fateh",🔴 ✓ Server 1 | Al-Nassr vs Al-Fateh | SporTV BR
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football | Al-Nassr vs Al-Fateh",🔴 ✓ Server 2 | Al-Nassr vs Al-Fateh | FOX DEPORTES
-https://playztv.pages.dev/sss/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="Football | Torino vs Carrarese",🔴 ✓ Server 1 | Torino vs Carrarese | ITALIA 1 FHD
-https://playztv.pages.dev/sss/index.m3u8
+# Total entries: 0
