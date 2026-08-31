@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-31T21:37:15.983077+06:00",
-  "last_updated_unix": 1788190635,
+  "last_updated": "2026-09-01T03:11:26.906689+06:00",
+  "last_updated_unix": 1788210686,
   "api_url": "https://tourniquest.site/",
   "app_version": "8",
   "telegram": "https://t.me/playztv",
@@ -12,7 +12,7 @@
   },
   "note": "Events only \u2014 no channels/categories included",
   "verification_rate": "0%",
-  "run_duration_seconds": 2.4,
+  "run_duration_seconds": 1.2,
   "raw_playlist_urls": {
     "hls_only_verified": "output/playztv_hls_only.m3u",
     "hls_only_all": "output/playztv_hls_all.m3u",
