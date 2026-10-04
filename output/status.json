@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-04T04:30:35.571301+06:00",
-  "last_updated_unix": 1791066635,
+  "last_updated": "2026-10-04T08:12:56.294732+06:00",
+  "last_updated_unix": 1791079976,
   "api_url": "https://p2882ads991.shop/",
   "app_version": "8",
   "telegram": "https://t.me/playztv",
@@ -12,7 +12,7 @@
   },
   "note": "Events only \u2014 no channels/categories included",
   "verification_rate": "0%",
-  "run_duration_seconds": 1.2,
+  "run_duration_seconds": 1.7,
   "raw_playlist_urls": {
     "hls_only_verified": "output/playztv_hls_only.m3u",
     "hls_only_all": "output/playztv_hls_all.m3u",
