@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-14T08:31:58.546909+06:00",
-  "last_updated_unix": 1791945118,
+  "last_updated": "2026-10-14T14:07:59.002595+06:00",
+  "last_updated_unix": 1791965279,
   "api_url": "https://pabbdyzone.shop/",
   "app_version": "8",
   "telegram": "https://t.me/playztv",
@@ -12,7 +12,7 @@
   },
   "note": "Events only \u2014 no channels/categories included",
   "verification_rate": "0%",
-  "run_duration_seconds": 1.4,
+  "run_duration_seconds": 1.5,
   "raw_playlist_urls": {
     "hls_only_verified": "output/playztv_hls_only.m3u",
     "hls_only_all": "output/playztv_hls_all.m3u",
